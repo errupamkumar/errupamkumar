@@ -1,22 +1,43 @@
+<!-- Profile README for github.com/errupamkumar -->
+
 <h2 align="center">Rupam Kumar</h2>
 <p align="center">
-Data Analyst (Power BI, SQL) • Java Backend (Spring Boot) • HCLTech
+Senior Software Engineer @ HCLTech • Data Analyst (Power BI) • Java Backend
 <br/>
-<a href="https://www.linkedin.com/in/YOUR-LINK/">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a> •
-<a href="YOUR_RESUME_LINK">Resume</a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> •
+<a href="mailto:rkumarvirat1244@gmail.com">Email</a> •
+<a href="YOUR-RESUME-LINK">Resume</a>
 </p>
 
-### Impact
-- Built fraud analytics dashboards (Power BI + SQL) to improve investigation visibility and reporting speed.
-- Created optimized SQL views and reusable data models to improve refresh performance and accuracy.
-- Delivered Spring Boot microservices and REST APIs with production-quality practices.
+---
 
-### Featured
-- Fraud Analytics Reporting Dashboard — Power BI, DAX, SQL — <link>
-- Power BI Portfolio (PBIX + screenshots) — <link>
-- SQL Case Studies (queries + dataset) — <link>
-- Spring Boot Microservice — <link>
+### What I do
+- Build data-driven dashboards and analytics (Power BI, DAX, Power Query, SQL).
+- Develop backend services & microservices (Java, Spring Boot, REST).
+- Focus on performance, clean data models, and production-ready delivery.
+
+### Highlights (impact)
+- Fraud analytics reporting: automated reporting pipelines and reduced manual Excel effort (Power BI + SQL).
+- Built optimized SQL views and reusable semantic models for faster refresh & accurate reporting.
+- Delivered Spring Boot microservices with testing and secure secret management.
 
 ### Certifications
-PL-300 • AZ-900 • AI-900 • DP-900 • HackerRank SQL (All levels)
+- Microsoft Certified: Power BI Data Analyst (PL-300)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- Microsoft Certified: Azure Data Fundamentals (DP-900)
+- HackerRank: SQL (All levels)
+
+### Featured work
+- ✅ **Fraud Analytics Reporting Dashboard** (Power BI + SQL) — add repo/demo link
+- ✅ **Power BI Portfolio** — add repo with PBIX + screenshots
+- ✅ **SQL Case Studies** — add repo with queries + datasets
+- ✅ **Spring Boot Microservice** — add repo with API + tests
+
+### Tech
+Power BI • DAX • Power Query • SQL (Oracle / MySQL / SQL Server) • Java • Spring Boot • REST • Git • Azure DevOps
+
+---
+<p align="center">
+📌 Pin your best repos below • Keep READMEs short • Add screenshots for dashboards
+</p>
