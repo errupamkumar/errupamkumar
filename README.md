@@ -28,13 +28,8 @@ Senior Software Engineer @ HCLTech • Data Analyst (Power BI) • Java Backend
 - Microsoft Certified: Azure Data Fundamentals (DP-900)
 - HackerRank: SQL (All levels)
 
-### Featured work
-- ✅ **Fraud Analytics Reporting Dashboard** (Power BI + SQL) — add repo/demo link
-- ✅ **Power BI Portfolio** — add repo with PBIX + screenshots
-- ✅ **SQL Case Studies** — add repo with queries + datasets
-- ✅ **Spring Boot Microservice** — add repo with API + tests
 
-### Tech
+### Tech Stack : - 
 Power BI • DAX • Power Query • SQL (Oracle / MySQL / SQL Server) • Java • Spring Boot • REST • Git • Azure DevOps
 
 ---
