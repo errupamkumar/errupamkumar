@@ -29,7 +29,7 @@
 
 - **Sales Performance Dashboard – Power BI**  
   Designed an interactive Power BI dashboard to track revenue, profit, and regional performance using cleaned sales data from SQL/Excel. Implemented DAX measures for YTD/MTD KPIs and created drill‑through pages for product and region‑level analysis.  
-  Repo: Link_
+  Repo: [Link_](https://github.com/errupamkumar/powerbi-sales-analytics-dashboard)
 
 - **Retail Store Insights – SQL + Power BI**  
   Built a star‑schema model from transactional data, wrote SQL queries for aggregations, and used Power BI to visualize store performance, customer segments, and order patterns. Helped identify low‑performing categories and high‑value customers.  
