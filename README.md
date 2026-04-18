@@ -8,7 +8,8 @@
 
 I am a Lead Data Analytics / Lead Power BI Developer at HCLTech with almost 4 years of experience delivering end-to-end Business Intelligence solutions. I specialize in transforming complex data into **actionable insights and executive-ready dashboards** that support strategic decision-making.
 
-- Strong expertise in **Power BI, SQL, Data Modeling (Star Schema), and DAX**, covering the complete BI lifecycle from data extraction to visualization.  
+- Strong expertise in **Power BI, SQL, Data Modeling (Star Schema), and DAX**, covering the complete BI lifecycle from data extraction to visualization.
+-  Currently working with **AIB Bank (client project at HCLTech)**, where I have successfully delivered **6+ business-critical dashboards/reports** across multiple processes, including **eFrauds, Central Securities, Central Print, and ODD**, enabling improved monitoring, reporting efficiency, and decision-making.  
 - Actively participating in **ZoomCharts Data Challenges**, building real-world, insight-driven dashboards with advanced **drill-down analytics and storytelling**.  
 - **Microsoft Certified Data Analyst** with certifications: PL-300, AZ-900, DP-900, DP-600, DP-700, AI-900, GH-900, and GH-300.  
 - Experienced in designing **scalable data models, optimized DAX measures, and performance-tuned dashboards** for enterprise use cases.  
