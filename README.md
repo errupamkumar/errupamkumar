@@ -28,7 +28,7 @@
 > These are my upcoming projects that I am currently working on. Once completed, I will update this section with the final project names and links.
 
 - ⭐ **Procurement Data Analytics – Power BI Challenge (Data Challenge 37)**  
-  **Status:** Not Started
+  **Status:** *🔴 On Hold*
    
   Working on a comprehensive **procurement analytics solution** using Power BI, based on a dataset of 5,200+ records covering purchasing transactions, suppliers, contracts, delivery performance, invoices, payments, budgets, and savings (2022–2024). The project focuses on enabling **data-driven procurement decision-making** by providing visibility into spending patterns, supplier performance, and operational efficiency.  
 
@@ -44,7 +44,7 @@
   Repo: [Link_](https://github.com/your-username/your-repo-name)
   
 - ⭐ **4U Reports Challenge Executive KPI Report – Power BI (ZoomCharts Data Challenge)**  
-  **Status:** In Progress
+  **Status:** 🟡 *In Progress* 
   
   Building a board-ready **Executive KPI dashboard** for a fictional global enterprise (Nexoria Group) using Power BI. The solution focuses on delivering **executive-level insights** across financial, operational, customer, and workforce KPIs. The report is designed to support **March board reporting and strategic planning**, highlighting performance trends, regional variations, and key business drivers.  
 
@@ -59,33 +59,27 @@
   Repo: [Link_]
   
 - ⭐ **Real Estate Market Analytics – Power BI (Data Challenge 36)**  
-  **Status:** Completed
+  **Status:** *🟢 Completed*
   
   I Participated in a global data challenge by ZoomCharts and built an end-to-end Power BI solution to analyze real estate market trends. Designed 3 interactive dashboards covering market overview, pricing drivers, and investment opportunities. Implemented a **Star Schema** data model with separate dimension tables and created a dedicated **Measures Table** for optimized and reusable DAX calculations. Delivered insights on pricing trends, rental yield, and market performance across regions.  
   Repo: [Link_](https://github.com/errupamkumar/-Real-Estate-Market-Analytics-Dashboard-Data-Challenge-36-) 
   
 - **Sales Performance Dashboard – Power BI**
-- **Status:** Not Started
+- **Status:** *🟢 Completed*
   
   Designed an interactive Power BI dashboard to track revenue, profit, and regional performance using cleaned sales data from SQL/Excel. Implemented DAX measures for YTD/MTD KPIs and created drill‑through pages for product and region‑level analysis.  
   Repo: [Link_](https://github.com/errupamkumar/powerbi-sales-analytics-dashboard)
 
 - **Retail Store Insights – SQL + Power BI**
-- **Status:** Not Started
+- **Status:** *🔴 On Hold*
   
   Built a star‑schema model from transactional data, wrote SQL queries for aggregations, and used Power BI to visualize store performance, customer segments, and order patterns. Helped identify low‑performing categories and high‑value customers.  
   Repo: Link_
 
 - **HR Analytics Dashboard – Power BI**
-- **Status:** Not Started
+- **Status:** *🔴 On Hold*
   
   Developed a comprehensive HR dashboard to monitor headcount, attrition, hiring trends, and diversity metrics. Used DAX measures for attrition rate, hiring rate, and tenure bands, enabling HR to track trends over time.  
-  Repo: Link_
-
-- **Excel Reporting Automation**
-  - **Status:** Not Started
-    
-  Created an Excel‑based reporting solution with pivot tables, formulas, and charts to automate monthly reporting. Reduced manual work and improved consistency of KPIs shared with management.  
   Repo: Link_
 
 ## 📫 Contact
