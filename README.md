@@ -1,12 +1,12 @@
 # Hi, I'm Rupam Kumar 👋
 
-**Data Analyst & Power BI Developer** with experience in building interactive dashboards, automating reports, and extracting actionable insights from data. I work with business stakeholders to understand requirements and translate them into data models, reports, and KPIs that support decision‑making.
+**Lead Data Analyst & Power BI Developer** with experience in building interactive dashboards, automating reports, and extracting actionable insights from data. I work with business stakeholders to understand requirements and translate them into data models, reports, and KPIs that support decision‑making.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- Working as a Data Analytics / Power BI Developer.
+- Working as a Lead Data Analytics / Lead Power BI Developer at HCLTech.
 - Experienced with end‑to‑end BI workflows: SQL views, data extraction, cleaning, modeling, DAX measures, and report/Dashboard design.
 - Interested in solving business problems in domains like finance, sales, operations, Logistics, and HR analytics and many more.
 - Open to roles as **Senior Data Analyst**, **Business Intelligence Developer**, and **Power BI Developer**
