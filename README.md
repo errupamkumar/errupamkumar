@@ -6,14 +6,20 @@
 
 ## 🧑‍💻 About Me
 
-- Working as a Lead Data Analytics / Lead Power BI Developer at HCLTech.
-- Experienced with end‑to‑end BI workflows: SQL views, data extraction, cleaning, modeling, DAX measures, and report/Dashboard design.
-- Interested in solving business problems in domains like finance, sales, operations, Logistics, and HR analytics and many more.
-- Open to roles as **Senior Data Analyst**, **Business Intelligence Developer**, and **Power BI Developer**
+I am a Lead Data Analytics / Lead Power BI Developer at HCLTech with almost 4 years of experience delivering end-to-end Business Intelligence solutions. I specialize in transforming complex data into **actionable insights and executive-ready dashboards** that support strategic decision-making.
+
+- Strong expertise in **Power BI, SQL, Data Modeling (Star Schema), and DAX**, covering the complete BI lifecycle from data extraction to visualization.  
+- Actively participating in **ZoomCharts Data Challenges**, building real-world, insight-driven dashboards with advanced **drill-down analytics and storytelling**.  
+- **Microsoft Certified Data Analyst** with certifications: PL-300, AZ-900, DP-900, DP-600, DP-700, AI-900, GH-900, and GH-300.  
+- Experienced in designing **scalable data models, optimized DAX measures, and performance-tuned dashboards** for enterprise use cases.  
+- Skilled in leveraging **AI tools (ChatGPT, Claude, Codex)** to accelerate development, improve productivity, and enhance analytical problem-solving.  
+- Domain experience across **Finance, Sales, Operations, Logistics, and HR Analytics**, delivering insights that drive business outcomes.  
+
+🎯 Open to opportunities as **Senior Data Analyst**, **Business Intelligence Developer**, or **Power BI Developer**, where I can contribute to building high-impact, data-driven solutions.
 
 ---
 
-## 🛠 Skills
+## 🛠 My Skills
 
 - **Business Intelligence:** Power BI [2018 & 2025 version], Power Query, DAX, paginated / operational reports / Dhashboard  / Star Schema / Snowflake Schema  / RLS / OLS ...etc.
 - **Data & Databases:** SQL (joins, CTEs, window functions, stored procedures, views, Materialized views, Triger ), relational modeling , Fact Table/ Dimentional Tables  ...etc.
@@ -23,7 +29,7 @@
 
 ---
 
-## 📊 Featured Projects
+## 📊 My Personal Projects
 
 > These are my upcoming projects that I am currently working on. Once completed, I will update this section with the final project names and links.
 
