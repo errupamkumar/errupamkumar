@@ -18,6 +18,8 @@ I am a Lead Data Analytics / Lead Power BI Developer at HCLTech with almost 4 ye
 
 🎯 Open to opportunities as **Senior Data Analyst**, **Business Intelligence Developer**, or **Power BI Developer**, where I can contribute to building high-impact, data-driven solutions.
 
+📌 Feel free to explore the **Personal Projects** section to see my work, including end-to-end Power BI solutions, dashboards, and data-driven insights.
+                                           🙏 Thank you for taking the time to review my portfolio.
 ---
 
 ## 🛠 My Skills
