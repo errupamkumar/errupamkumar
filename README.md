@@ -64,7 +64,7 @@
   I Participated in a global data challenge by ZoomCharts and built an end-to-end Power BI solution to analyze real estate market trends. Designed 3 interactive dashboards covering market overview, pricing drivers, and investment opportunities. Implemented a **Star Schema** data model with separate dimension tables and created a dedicated **Measures Table** for optimized and reusable DAX calculations. Delivered insights on pricing trends, rental yield, and market performance across regions.  
   Repo: [Link_](https://github.com/errupamkumar/-Real-Estate-Market-Analytics-Dashboard-Data-Challenge-36-) 
   
-- **Sales Performance Dashboard – Power BI**
+- ⭐ **Sales Performance Dashboard – Power BI**
 - **Status:** *🟢 Completed*
   
   Designed an interactive Power BI dashboard to track revenue, profit, and regional performance using cleaned sales data from SQL/Excel. Implemented DAX measures for YTD/MTD KPIs and created drill‑through pages for product and region‑level analysis.  
@@ -76,7 +76,7 @@
   Built a star‑schema model from transactional data, wrote SQL queries for aggregations, and used Power BI to visualize store performance, customer segments, and order patterns. Helped identify low‑performing categories and high‑value customers.  
   Repo: Link_
 
-- **HR Analytics Dashboard – Power BI**
+- ⭐ **HR Analytics Dashboard – Power BI**
 - **Status:** *🔴 On Hold*
   
   Developed a comprehensive HR dashboard to monitor headcount, attrition, hiring trends, and diversity metrics. Used DAX measures for attrition rate, hiring rate, and tenure bands, enabling HR to track trends over time.  
