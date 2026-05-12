@@ -22,24 +22,100 @@ I am a Lead Data Analytics / Lead Power BI Developer at HCLTech with almost 4 ye
 
 ---
 
-## 🛠 My Skills
+## 🛠 My Skills  
 
-- **Business Intelligence:** Power BI [2018 & 2025 version], Power Query, DAX, paginated / operational reports / Dhashboard  / Star Schema / Snowflake Schema  / RLS / OLS ...etc.
-- **Data & Databases:** SQL (joins, CTEs, window functions, stored procedures, views, Materialized views, Triger ), relational modeling , Fact Table/ Dimentional Tables  ...etc.
-- **Data Analysis:** Exploratory analysis, KPI design, trend analysis, cohort/segmentation, A/B style comparisons ,Cards, Pie Chart, Tables/Measures...etc. 
-- **Tools:** Power BI, Excel (pivot tables, lookup functions, dashboards), Git/GitHub , Jira,Conflunce,Azure DevOps, SVN, SourceTree, BMC for CRQ creations. 
-- **Optional (Current Learning):** Python (Pandas, NumPy, Matplotlib/Seaborn), CSV/Excel/SQL data handling, developming model. 
+### 📊 Business Intelligence  
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI%202018%20%26%202025-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAX-FFB000?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Paginated%20Reports-0F6CBD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operational%20Reports-4682B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dashboard-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Star%20Schema-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Snowflake%20Schema-5F9EA0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RLS-DC143C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OLS-8B0000?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📊 My Personal Projects
+### 🗄 Data & Databases  
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Joins-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CTEs-9932CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Window%20Functions-FF6347?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stored%20Procedures-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Views-20B2AA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Materialized%20Views-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Trigger-B22222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Indexing-8B008B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Packages-556B2F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Relational%20Modeling-5F9EA0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fact%20Tables-4169E1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dimensional%20Tables-20B2AA?style=for-the-badge"/>
+</p>
+
+---
+
+### 📈 Data Analysis  
+<p align="left">
+  <img src="https://img.shields.io/badge/Exploratory%20Analysis-2F4F4F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/KPI%20Design-FF8C00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Trend%20Analysis-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cohort%20Analysis-6B8E23?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Segmentation-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/A%2FB%20Style%20Comparisons-FF1493?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cards-4682B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pie%20Chart-DA70D6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tables%20%26%20Measures-5F9EA0?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚙ Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pivot%20Tables-006400?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Lookup%20Functions-228B22?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dashboards-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BMC%20CRQ-FF6600?style=for-the-badge"/>
+</p>
+
+---
+
+### 🚀 Optional (Current Learning)  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSV%20Data%20Handling-228B22?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Excel%20Data%20Handling-006400?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL%20Data%20Handling-8B4513?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Developing%20Model-708090?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 My Personal Projects : 
 
 > These are my upcoming projects that I am currently working on. Once completed, I will update this section with the final project names and links.
 
 - ⭐ **Procurement Data Analytics – Power BI Challenge (Data Challenge 37)**  
   **Status:** *🔴 On Hold* | **Deadline:** Apr 17 – May 22, 2026 (IST).
    
-  Working on a comprehensive **procurement analytics solution** using Power BI, based on a dataset of 5,200+ records covering purchasing transactions, suppliers, contracts, delivery performance, invoices, payments, budgets, and savings (2022–2024). The project focuses on enabling **data-driven procurement decision-making** by providing visibility into spending patterns, supplier performance, and operational efficiency.  
+Working on a comprehensive **procurement analytics solution** using Power BI, based on a dataset of 5,200+ records covering purchasing transactions, suppliers, contracts, delivery performance, invoices, payments, budgets, and savings (2022–2024). The project focuses on enabling **data-driven procurement decision-making** by providing visibility into spending patterns, supplier performance, and operational efficiency.  
 
   Designing an interactive Power BI report to analyze:
   - Procurement spend trends over time and across categories, departments, and regions  
@@ -48,14 +124,14 @@ I am a Lead Data Analytics / Lead Power BI Developer at HCLTech with almost 4 ye
   - Identification of **maverick spend** and off-contract purchasing behavior  
   - Lead time and on-time delivery analysis to uncover operational inefficiencies  
 
-  Implementing a structured **data model with optimized relationships** and building advanced **DAX measures** for KPIs such as Spend Variance, Savings %, On-Time Delivery Rate, and Supplier Risk Impact. The report emphasizes **clear storytelling, actionable insights, and executive-friendly dashboards**, helping organizations reduce risk, control costs, and improve procurement efficiency.  
+Implementing a structured **data model with optimized relationships** and building advanced **DAX measures** for KPIs such as Spend Variance, Savings %, On-Time Delivery Rate, and Supplier Risk Impact. The report emphasizes **clear storytelling, actionable insights, and executive-friendly dashboards**, helping organizations reduce risk, control costs, and improve procurement efficiency.  
 
   Repo: [Link_](https://github.com/your-username/your-repo-name)
   
 - ⭐ **4U Reports Challenge Executive KPI Report – Power BI (ZoomCharts Data Challenge)**  
-  **Status:** 🟡 *In Progress*  | **Deadline:** Mar 30 - Apr 30, 2026 (IST) 
+  **Status:** 🟢 *Completed*  | **Deadline:** Mar 30 - Apr 30, 2026 (IST) 
   
-  Building a board-ready **Executive KPI dashboard** for a fictional global enterprise (Nexoria Group) using Power BI. The solution focuses on delivering **executive-level insights** across financial, operational, customer, and workforce KPIs. The report is designed to support **March board reporting and strategic planning**, highlighting performance trends, regional variations, and key business drivers.  
+Building a board-ready **Executive KPI dashboard** for a fictional global enterprise (Nexoria Group) using Power BI. The solution focuses on delivering **executive-level insights** across financial, operational, customer, and workforce KPIs. The report is designed to support **March board reporting and strategic planning**, highlighting performance trends, regional variations, and key business drivers.  
 
   Designing a **multi-page (3–4 pages) interactive report** with a strong focus on storytelling, including:
   - KPI Summary (Revenue, EBITDA, Margin, Headcount, Customer Growth)  
@@ -63,7 +139,7 @@ I am a Lead Data Analytics / Lead Power BI Developer at HCLTech with almost 4 ye
   - Organizational drill-down (Division → Business Unit → Product Line)  
   - Regional performance analysis across AMER, EMEA, and APAC  
 
-  Implementing **ZoomCharts Drill Down PRO visuals** to enable seamless hierarchical exploration and advanced interactivity. The solution emphasizes **clean UX design, intuitive navigation, and insight-driven storytelling**, allowing stakeholders to quickly identify performance gaps, growth drivers, and strategic opportunities.  
+Implementing **ZoomCharts Drill Down PRO visuals** to enable seamless hierarchical exploration and advanced interactivity. The solution emphasizes **clean UX design, intuitive navigation, and insight-driven storytelling**, allowing stakeholders to quickly identify performance gaps, growth drivers, and strategic opportunities.  
 
   Repo: [Link_]
   
