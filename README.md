@@ -141,7 +141,7 @@ Building a board-ready **Executive KPI dashboard** for a fictional global enterp
 
 Implementing **ZoomCharts Drill Down PRO visuals** to enable seamless hierarchical exploration and advanced interactivity. The solution emphasizes **clean UX design, intuitive navigation, and insight-driven storytelling**, allowing stakeholders to quickly identify performance gaps, growth drivers, and strategic opportunities.  
 
-  Repo: [Link_]
+  Repo: [Link_](https://github.com/errupamkumar/4U-Challenges-Report-By-ZoomChart/tree/main)
   
 - ⭐ **Real Estate Market Analytics – Power BI (Data Challenge 36)**  
   **Status:** *🟢 Completed* | **Deadline:** Mar 30 - Apr 22, 2026 (IST) 
