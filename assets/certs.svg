@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="Certifications: PL-300, DP-600, DP-700, DP-900, AZ-900, AI-900, GH-900, GH-300">
+  <defs>
+    <linearGradient id="ms" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F2C811"/><stop offset="1" stop-color="#E8A300"/></linearGradient>
+    <linearGradient id="fb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14B8A6"/><stop offset="1" stop-color="#0E7490"/></linearGradient>
+    <linearGradient id="az" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+    <linearGradient id="gh" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C084FC"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <path id="hex" d="M0 -54 L47 -27 L47 27 L0 54 L-47 27 L-47 -27Z"/>
+    <clipPath id="hc"><use href="#hex"/></clipPath>
+  </defs>
+  <style>
+    text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+    .b{opacity:0;transform-box:fill-box;transform-origin:center;animation:pop .7s cubic-bezier(.3,1.6,.5,1) forwards}
+    @keyframes pop{from{opacity:0;transform:scale(.3) rotate(-30deg)}to{opacity:1;transform:scale(1) rotate(0)}}
+    .i1{animation-delay:.1s}.i2{animation-delay:.25s}.i3{animation-delay:.4s}.i4{animation-delay:.55s}.i5{animation-delay:.7s}.i6{animation-delay:.85s}.i7{animation-delay:1s}.i8{animation-delay:1.15s}
+    .shine{animation:shine 6s ease-in-out infinite}
+    @keyframes shine{0%,70%{transform:translateX(-120px)}100%{transform:translateX(120px)}}
+    .bob{animation:bob 4s ease-in-out infinite}
+    @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+    .ttl{opacity:0;animation:fade 1s ease 1.4s forwards}
+    @keyframes fade{to{opacity:1}}
+  </style>
+  <rect width="1200" height="250" rx="18" fill="#0B0F17"/>
+  <rect width="1200" height="250" rx="18" fill="none" stroke="#F2C811" stroke-opacity=".15"/>
+
+  <!-- badge template repeated: translate(x,y) -->
+  <g transform="translate(80 105)"><g class="bob" style="animation-delay:0s"><g class="b i1">
+    <use href="#hex" fill="url(#ms)"/><use href="#hex" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2" transform="scale(.86)"/>
+    <g clip-path="url(#hc)"><rect class="shine" x="-60" y="-60" width="40" height="120" fill="url(#sh)" style="animation-delay:0s"/></g>
+    <text y="-8" text-anchor="middle" font-size="11" font-weight="700" fill="#1F1300" opacity=".75">MICROSOFT</text>
+    <text y="16" text-anchor="middle" font-size="20" font-weight="900" fill="#1F1300">PL-300</text>
+  </g></g><text class="ttl" y="84" text-anchor="middle" font-size="12" fill="#D1D5DB">Power BI Analyst</text></g>
+
+  <g transform="translate(228 105)"><g class="bob" style="animation-delay:.5s"><g class="b i2">
+    <use href="#hex" fill="url(#fb)"/><use href="#hex" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2" transform="scale(.86)"/>
+    <g clip-path="url(#hc)"><rect class="shine" x="-60" y="-60" width="40" height="120" fill="url(#sh)" style="animation-delay:.4s"/></g>
+    <text y="-8" text-anchor="middle" font-size="11" font-weight="700" fill="#fff" opacity=".8">FABRIC</text>
+    <text y="16" text-anchor="middle" font-size="20" font-weight="900" fill="#fff">DP-600</text>
+  </g></g><text class="ttl" y="84" text-anchor="middle" font-size="12" fill="#D1D5DB">Fabric Analytics Eng.</text></g>
+
+  <g transform="translate(376 105)"><g class="bob" style="animation-delay:1s"><g class="b i3">
+    <use href="#hex" fill="url(#fb)"/><use href="#hex" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2" transform="scale(.86)"/>
+    <g clip-path="url(#hc)"><rect class="shine" x="-60" y="-60" width="40" height="120" fill="url(#sh)" style="animation-delay:.8s"/></g>
+    <text y="-8" text-anchor="middle" font-size="11" font-weight="700" fill="#fff" opacity=".8">FABRIC</text>
+    <text y="16" text-anchor="middle" font-size="20" font-weight="900" fill="#fff">DP-700</text>
+  </g></g><text class="ttl" y="84" text-anchor="middle" font-size="12" fill="#D1D5DB">Fabric Data Engineer</text></g>
+
+  <g transform="translate(524 105)"><g class="bob" style="animation-delay:1.5s"><g class="b i4">
+    <use href="#hex" fill="url(#az)"/><use href="#hex" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2" transform="scale(.86)"/>
+    <g clip-path="url(#hc)"><rect class="shine" x="-60" y="-60" width="40" height="120" fill="url(#sh)" style="animation-delay:1.2s"/></g>
+    <text y="-8" text-anchor="middle" font-size="11" font-weight="700" fill="#fff" opacity=".8">AZURE</text>
+    <text y="16" text-anchor="middle" font-size="20" font-weight="900" fill="#fff">DP-900</text>
+  </g></g><text class="ttl" y="84" text-anchor="middle" font-size="12" fill="#D1D5DB">Data Fundamentals</text></g>
+
+  <g transform="translate(672 105)"><g class="bob" style="animation-delay:2s"><g class="b i5">
+    <use href="#hex" fill="url(#az)"/><use href="#hex" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2" transform="scale(.86)"/>
+    <g clip-path="url(#hc)"><rect class="shine" x="-60" y="-60" width="40" height="120" fill="url(#sh)" style="animation-delay:1.6s"/></g>
+    <text y="-8" text-anchor="middle" font-size="11" font-weight="700" fill="#fff" opacity=".8">AZURE</text>
+    <text y="16" text-anchor="middle" font-size="20" font-weight="900" fill="#fff">AZ-900</text>
+  </g></g><text class="ttl" y="84" text-anchor="middle" font-size="12" fill="#D1D5DB">Azure Fundamentals</text></g>
+
+  <g transform="translate(820 105)"><g class="bob" style="animation-delay:2.5s"><g class="b i6">
+    <use href="#hex" fill="url(#az)"/><use href="#hex" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2" transform="scale(.86)"/>
+    <g clip-path="url(#hc)"><rect class="shine" x="-60" y="-60" width="40" height="120" fill="url(#sh)" style="animation-delay:2s"/></g>
+    <text y="-8" text-anchor="middle" font-size="11" font-weight="700" fill="#fff" opacity=".8">AZURE AI</text>
+    <text y="16" text-anchor="middle" font-size="20" font-weight="900" fill="#fff">AI-900</text>
+  </g></g><text class="ttl" y="84" text-anchor="middle" font-size="12" fill="#D1D5DB">AI Fundamentals</text></g>
+
+  <g transform="translate(968 105)"><g class="bob" style="animation-delay:3s"><g class="b i7">
+    <use href="#hex" fill="url(#gh)"/><use href="#hex" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2" transform="scale(.86)"/>
+    <g clip-path="url(#hc)"><rect class="shine" x="-60" y="-60" width="40" height="120" fill="url(#sh)" style="animation-delay:2.4s"/></g>
+    <text y="-8" text-anchor="middle" font-size="11" font-weight="700" fill="#fff" opacity=".8">GITHUB</text>
+    <text y="16" text-anchor="middle" font-size="20" font-weight="900" fill="#fff">GH-900</text>
+  </g></g><text class="ttl" y="84" text-anchor="middle" font-size="12" fill="#D1D5DB">GitHub Foundations</text></g>
+
+  <g transform="translate(1116 105)"><g class="bob" style="animation-delay:3.5s"><g class="b i8">
+    <use href="#hex" fill="url(#gh)"/><use href="#hex" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2" transform="scale(.86)"/>
+    <g clip-path="url(#hc)"><rect class="shine" x="-60" y="-60" width="40" height="120" fill="url(#sh)" style="animation-delay:2.8s"/></g>
+    <text y="-8" text-anchor="middle" font-size="11" font-weight="700" fill="#fff" opacity=".8">GITHUB</text>
+    <text y="16" text-anchor="middle" font-size="20" font-weight="900" fill="#fff">GH-300</text>
+  </g></g><text class="ttl" y="84" text-anchor="middle" font-size="12" fill="#D1D5DB">GitHub Copilot</text></g>
+</svg>

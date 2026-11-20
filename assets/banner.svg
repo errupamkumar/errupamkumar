@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Rupam Kumar — Lead Power BI Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0f17"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1a1405"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F2C811"/>
+      <stop offset="1" stop-color="#FF9F1C"/>
+    </linearGradient>
+    <linearGradient id="barG" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#E8A300"/>
+      <stop offset="1" stop-color="#F2C811"/>
+    </linearGradient>
+    <linearGradient id="barT" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#0E7490"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#F2C811" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#F2C811" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".05"/>
+    </pattern>
+    <clipPath id="card"><rect x="700" y="48" width="452" height="324" rx="18"/></clipPath>
+    <clipPath id="nameClip"><rect x="60" y="120" width="0" height="80"><animate attributeName="width" from="0" to="620" dur="1.4s" begin=".5s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect></clipPath>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="8"/></filter>
+  </defs>
+
+  <style>
+    .f{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+    .mono{font-family:'Cascadia Code',Consolas,'SFMono-Regular',Menlo,monospace}
+    .fade{opacity:0;animation:fadeUp .9s cubic-bezier(.2,.8,.2,1) forwards}
+    @keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+    .d1{animation-delay:.2s}.d2{animation-delay:1.6s}.d3{animation-delay:2.0s}.d4{animation-delay:2.4s}.d5{animation-delay:2.7s}.d6{animation-delay:3.0s}
+    .chip{opacity:0;animation:pop .5s cubic-bezier(.3,1.6,.5,1) forwards}
+    @keyframes pop{from{opacity:0;transform:scale(.6)}to{opacity:1;transform:scale(1)}}
+    .c1{animation-delay:2.8s}.c2{animation-delay:2.95s}.c3{animation-delay:3.1s}.c4{animation-delay:3.25s}.c5{animation-delay:3.4s}.c6{animation-delay:3.55s}
+    .chip{transform-box:fill-box;transform-origin:center}
+    .bar{transform-box:fill-box;transform-origin:bottom;animation:grow 4.8s ease-in-out infinite}
+    @keyframes grow{0%{transform:scaleY(.05)}22%,78%{transform:scaleY(1)}100%{transform:scaleY(.05)}}
+    .b1{animation-delay:0s}.b2{animation-delay:.12s}.b3{animation-delay:.24s}.b4{animation-delay:.36s}.b5{animation-delay:.48s}.b6{animation-delay:.6s}.b7{animation-delay:.72s}
+    .line{stroke-dasharray:420;stroke-dashoffset:420;animation:draw 4.8s ease-in-out infinite}
+    @keyframes draw{0%{stroke-dashoffset:420}35%,80%{stroke-dashoffset:0}100%{stroke-dashoffset:-420}}
+    .areaA{animation:areaFade 4.8s ease-in-out infinite}
+    @keyframes areaFade{0%,10%{opacity:0}40%,80%{opacity:1}100%{opacity:0}}
+    .ring{stroke-dasharray:201;stroke-dashoffset:201;animation:ring 4.8s ease-in-out infinite;transform-box:fill-box;transform-origin:center;transform:rotate(-90deg)}
+    @keyframes ring{0%{stroke-dashoffset:201}35%,80%{stroke-dashoffset:40}100%{stroke-dashoffset:201}}
+    .pulse{animation:pulse 2.4s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:.5}50%{opacity:1}}
+    .float{animation:float 6s ease-in-out infinite}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+    .scan{animation:scan 3.6s linear infinite}
+    @keyframes scan{from{transform:translateX(-200px)}to{transform:translateX(700px)}}
+    .dot{animation:rise linear infinite}
+    @keyframes rise{from{transform:translateY(0);opacity:0}15%{opacity:.8}to{transform:translateY(-420px);opacity:0}}
+    .blink{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    .orb1{animation:drift1 14s ease-in-out infinite}
+    .orb2{animation:drift2 16s ease-in-out infinite}
+    @keyframes drift1{0%,100%{transform:translate(0,0)}50%{transform:translate(60px,30px)}}
+    @keyframes drift2{0%,100%{transform:translate(0,0)}50%{transform:translate(-50px,-25px)}}
+    .card{opacity:0;animation:cardIn 1.1s cubic-bezier(.2,.8,.2,1) .6s forwards}
+    @keyframes cardIn{from{opacity:0;transform:translateX(40px)}to{opacity:1;transform:translateX(0)}}
+    .kpi{animation:kpi 4.8s ease-in-out infinite}
+    @keyframes kpi{0%,8%{opacity:.25}30%,85%{opacity:1}100%{opacity:.25}}
+  </style>
+
+  <!-- background -->
+  <rect width="1200" height="420" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="22" fill="url(#grid)"/>
+  <circle class="orb1" cx="180" cy="80" r="260" fill="url(#glow1)"/>
+  <circle class="orb2" cx="980" cy="360" r="280" fill="url(#glow2)"/>
+
+  <!-- rising data particles -->
+  <g fill="#F2C811">
+    <circle class="dot" cx="90"  cy="430" r="2"   style="animation-duration:9s"/>
+    <circle class="dot" cx="260" cy="430" r="1.5" style="animation-duration:12s;animation-delay:2s"/>
+    <circle class="dot" cx="420" cy="430" r="2"   style="animation-duration:10s;animation-delay:4s"/>
+    <circle class="dot" cx="560" cy="430" r="1.5" style="animation-duration:13s;animation-delay:1s"/>
+    <circle class="dot" cx="640" cy="430" r="2"   style="animation-duration:11s;animation-delay:6s"/>
+  </g>
+  <g fill="#22D3EE">
+    <circle class="dot" cx="180" cy="430" r="1.5" style="animation-duration:14s;animation-delay:3s"/>
+    <circle class="dot" cx="350" cy="430" r="2"   style="animation-duration:10s;animation-delay:7s"/>
+    <circle class="dot" cx="500" cy="430" r="1.5" style="animation-duration:12s;animation-delay:5s"/>
+  </g>
+
+  <!-- ===== LEFT: identity ===== -->
+  <g class="f">
+    <g class="fade d1">
+      <rect x="60" y="64" width="232" height="30" rx="15" fill="#F2C811" fill-opacity=".12" stroke="#F2C811" stroke-opacity=".5"/>
+      <circle class="pulse" cx="80" cy="79" r="5" fill="#3FB950"/>
+      <text x="94" y="84" font-size="13" fill="#F2C811" font-weight="600" letter-spacing="1.2">OPEN TO SENIOR BI ROLES</text>
+    </g>
+
+    <text x="60" y="130" font-size="22" fill="#9CA3AF" class="fade d1" font-weight="500">Hi there, I'm</text>
+    <g clip-path="url(#nameClip)">
+      <text x="58" y="186" font-size="62" font-weight="800" fill="url(#gold)" letter-spacing="-1">Rupam Kumar</text>
+    </g>
+    <!-- underline sweep -->
+    <rect x="60" y="200" height="4" rx="2" fill="url(#gold)" width="0">
+      <animate attributeName="width" from="0" to="120" dur=".8s" begin="1.7s" fill="freeze"/>
+    </rect>
+
+    <text x="60" y="240" font-size="24" fill="#F3F4F6" font-weight="600" class="fade d2">Lead Power BI Developer <tspan fill="#6B7280">·</tspan> Data Analyst</text>
+    <text x="60" y="270" class="mono fade d3" font-size="15" fill="#22D3EE">&gt; turning raw data into decisions<tspan class="blink" fill="#F2C811">▌</tspan></text>
+    <text x="60" y="298" font-size="14" fill="#9CA3AF" class="fade d4">@ HCLTech  ·  BFSI · Fraud Analytics · Noida, India</text>
+
+    <!-- skill chips -->
+    <g font-size="13" font-weight="600">
+      <g class="chip c1"><rect x="60"  y="320" width="92"  height="30" rx="8" fill="#1F2937" stroke="#F2C811" stroke-opacity=".6"/><text x="106" y="340" text-anchor="middle" fill="#F2C811">Power BI</text></g>
+      <g class="chip c2"><rect x="160" y="320" width="56"  height="30" rx="8" fill="#1F2937" stroke="#374151"/><text x="188" y="340" text-anchor="middle" fill="#E5E7EB">DAX</text></g>
+      <g class="chip c3"><rect x="224" y="320" width="56"  height="30" rx="8" fill="#1F2937" stroke="#374151"/><text x="252" y="340" text-anchor="middle" fill="#E5E7EB">SQL</text></g>
+      <g class="chip c4"><rect x="288" y="320" width="76"  height="30" rx="8" fill="#1F2937" stroke="#374151"/><text x="326" y="340" text-anchor="middle" fill="#E5E7EB">Fabric</text></g>
+      <g class="chip c5"><rect x="372" y="320" width="76"  height="30" rx="8" fill="#1F2937" stroke="#374151"/><text x="410" y="340" text-anchor="middle" fill="#E5E7EB">Python</text></g>
+      <g class="chip c6"><rect x="456" y="320" width="104" height="30" rx="8" fill="#1F2937" stroke="#22D3EE" stroke-opacity=".6"/><text x="508" y="340" text-anchor="middle" fill="#22D3EE">Azure DevOps</text></g>
+    </g>
+  </g>
+
+  <!-- ===== RIGHT: live dashboard card ===== -->
+  <g class="card f">
+    <g class="float">
+      <rect x="700" y="48" width="452" height="324" rx="18" fill="#000" opacity=".45" filter="url(#soft)" transform="translate(0 10)"/>
+      <rect x="700" y="48" width="452" height="324" rx="18" fill="#0F1623" stroke="#F2C811" stroke-opacity=".35"/>
+      <g clip-path="url(#card)">
+        <!-- title bar -->
+        <rect x="700" y="48" width="452" height="40" fill="#151E2E"/>
+        <circle cx="722" cy="68" r="5" fill="#FF5F57"/><circle cx="740" cy="68" r="5" fill="#FEBC2E"/><circle cx="758" cy="68" r="5" fill="#28C840"/>
+        <text x="926" y="73" text-anchor="middle" font-size="12" fill="#9CA3AF" font-weight="600">Executive KPI Report.pbix</text>
+        <circle class="pulse" cx="1124" cy="68" r="4" fill="#3FB950"/>
+        <text x="1114" y="72" text-anchor="end" font-size="10" fill="#3FB950" font-weight="700">LIVE</text>
+
+        <!-- KPI tiles -->
+        <g>
+          <rect x="716" y="100" width="130" height="62" rx="10" fill="#151E2E"/>
+          <text x="728" y="120" font-size="10" fill="#9CA3AF" letter-spacing=".8">BI SOLUTIONS</text>
+          <text x="728" y="150" font-size="26" font-weight="800" fill="#F2C811" class="kpi">20+</text>
+          <rect x="861" y="100" width="130" height="62" rx="10" fill="#151E2E"/>
+          <text x="873" y="120" font-size="10" fill="#9CA3AF" letter-spacing=".8">REPORTING TIME</text>
+          <text x="873" y="150" font-size="26" font-weight="800" fill="#22D3EE" class="kpi">-80%</text>
+          <rect x="1006" y="100" width="130" height="62" rx="10" fill="#151E2E"/>
+          <text x="1018" y="120" font-size="10" fill="#9CA3AF" letter-spacing=".8">FTE EFFORT</text>
+          <text x="1018" y="150" font-size="26" font-weight="800" fill="#3FB950" class="kpi">15→2</text>
+        </g>
+
+        <!-- bar + line chart -->
+        <rect x="716" y="174" width="275" height="182" rx="10" fill="#151E2E"/>
+        <text x="728" y="194" font-size="11" fill="#E5E7EB" font-weight="600">Monthly Insights</text>
+        <g stroke="#ffffff" stroke-opacity=".06">
+          <line x1="728" y1="230" x2="980" y2="230"/><line x1="728" y1="268" x2="980" y2="268"/><line x1="728" y1="306" x2="980" y2="306"/><line x1="728" y1="342" x2="980" y2="342"/>
+        </g>
+        <g>
+          <rect class="bar b1" x="740" y="292" width="22" height="50" rx="4" fill="url(#barG)"/>
+          <rect class="bar b2" x="773" y="266" width="22" height="76" rx="4" fill="url(#barG)"/>
+          <rect class="bar b3" x="806" y="280" width="22" height="62" rx="4" fill="url(#barG)"/>
+          <rect class="bar b4" x="839" y="246" width="22" height="96" rx="4" fill="url(#barG)"/>
+          <rect class="bar b5" x="872" y="258" width="22" height="84" rx="4" fill="url(#barG)"/>
+          <rect class="bar b6" x="905" y="226" width="22" height="116" rx="4" fill="url(#barG)"/>
+          <rect class="bar b7" x="938" y="212" width="22" height="130" rx="4" fill="url(#barT)"/>
+        </g>
+        <path class="areaA" d="M751 270 L784 248 L817 258 L850 222 L883 232 L916 206 L949 196 L949 342 L751 342Z" fill="url(#area)"/>
+        <path class="line" d="M751 270 L784 248 L817 258 L850 222 L883 232 L916 206 L949 196" fill="none" stroke="#22D3EE" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+        <!-- donut -->
+        <rect x="1006" y="174" width="130" height="182" rx="10" fill="#151E2E"/>
+        <text x="1018" y="194" font-size="11" fill="#E5E7EB" font-weight="600">Automation</text>
+        <circle cx="1071" cy="262" r="32" fill="none" stroke="#1F2937" stroke-width="10"/>
+        <circle class="ring" cx="1071" cy="262" r="32" fill="none" stroke="url(#gold)" stroke-width="10" stroke-linecap="round"/>
+        <text x="1071" y="268" text-anchor="middle" font-size="16" font-weight="800" fill="#F3F4F6">80%</text>
+        <rect x="1018" y="314" width="106" height="6" rx="3" fill="#1F2937"/>
+        <rect x="1018" y="314" width="0" height="6" rx="3" fill="#3FB950"><animate attributeName="width" values="0;92;92;0" keyTimes="0;.35;.8;1" dur="4.8s" repeatCount="indefinite"/></rect>
+        <text x="1018" y="338" font-size="9.5" fill="#9CA3AF">Manual → Power BI</text>
+
+        <!-- scan shine -->
+        <rect class="scan" x="700" y="48" width="80" height="324" fill="url(#shine)" opacity=".05"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- bottom accent -->
+  <rect x="0" y="414" width="1200" height="6" fill="url(#gold)" opacity=".85" rx="3"/>
+</svg>

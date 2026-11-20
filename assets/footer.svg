@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Thanks for visiting">
+  <defs>
+    <linearGradient id="w1" x1="0" x2="1"><stop offset="0" stop-color="#F2C811"/><stop offset="1" stop-color="#FF9F1C"/></linearGradient>
+    <linearGradient id="w2" x1="0" x2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#0EA5E9"/></linearGradient>
+  </defs>
+  <style>
+    text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+    .w{animation:wave 8s linear infinite}
+    .w.s{animation-duration:12s;animation-direction:reverse}
+    @keyframes wave{from{transform:translateX(0)}to{transform:translateX(-1200px)}}
+    .t{animation:breathe 3s ease-in-out infinite}
+    @keyframes breathe{0%,100%{opacity:.7}50%{opacity:1}}
+  </style>
+  <rect width="1200" height="120" rx="18" fill="#0B0F17"/>
+  <rect width="1200" height="120" rx="18" fill="none" stroke="#F2C811" stroke-opacity=".15"/>
+  <g class="w s" opacity=".35"><path d="M0 70 Q150 40 300 70 T600 70 T900 70 T1200 70 T1500 70 T1800 70 T2100 70 T2400 70 V120 H0Z" fill="url(#w2)"/></g>
+  <g class="w" opacity=".9"><path d="M0 85 Q150 60 300 85 T600 85 T900 85 T1200 85 T1500 85 T1800 85 T2100 85 T2400 85 V120 H0Z" fill="url(#w1)"/></g>
+  <text class="t" x="600" y="38" text-anchor="middle" font-size="16" font-weight="600" fill="#9CA3AF">Thanks for visiting · Let's turn your data into decisions</text>
+</svg>

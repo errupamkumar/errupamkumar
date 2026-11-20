@@ -1,178 +1,85 @@
-# Hi, I'm Rupam Kumar 👋
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Rupam Kumar — Lead Power BI Developer"/>
+</p>
 
-**Lead Data Analyst & Power BI Developer** with experience in building interactive dashboards, automating reports, and extracting actionable insights from data. I work with business stakeholders to understand requirements and translate them into data models, reports, and KPIs that support decision‑making.
+<p align="center">
+  <a href="https://www.linkedin.com/in/rupam-kumar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://errupamkumar.github.io/portfolio-website_prod/"><img src="https://img.shields.io/badge/Portfolio-Visit-F2C811?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+  <a href="https://topmate.io/rupam_kumar10"><img src="https://img.shields.io/badge/Topmate-Book%201%3A1-E44332?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
+  <a href="mailto:er.rupam.kumar@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=errupamkumar&style=for-the-badge&color=F2C811&label=PROFILE+VIEWS"/>
+</p>
 
----
-
-## 🧑‍💻 About Me
-
-I am a Lead Data Analytics / Lead Power BI Developer at HCLTech with almost 4 years of experience delivering end-to-end Business Intelligence solutions. I specialize in transforming complex data into **actionable insights and executive-ready dashboards** that support strategic decision-making.
-
-- Strong expertise in **Power BI, SQL, Data Modeling (Star Schema), and DAX**, covering the complete BI lifecycle from data extraction to visualization.
--  Currently working with **AIB Bank (client project at HCLTech)**, where I have successfully delivered **6+ business-critical dashboards/reports** across multiple processes, including **eFrauds, Central Securities, Central Print, and ODD**, enabling improved monitoring, reporting efficiency, and decision-making.  
-- Actively participating in **ZoomCharts Data Challenges**, building real-world, insight-driven dashboards with advanced **drill-down analytics and storytelling**.  
-- **Microsoft Certified Data Analyst** with certifications: PL-300, AZ-900, DP-900, DP-600, DP-700, AI-900, GH-900, and GH-300.  
-- Experienced in designing **scalable data models, optimized DAX measures, and performance-tuned dashboards** for enterprise use cases.  
-- Skilled in leveraging **AI tools (ChatGPT, Claude, Codex)** to accelerate development, improve productivity, and enhance analytical problem-solving.  
-- Domain experience across **Finance, Sales, Operations, Logistics, and HR Analytics**, delivering insights that drive business outcomes.  
-
-🎯 Open to opportunities as **Senior Data Analyst**, **Business Intelligence Developer**, or **Power BI Developer**, where I can contribute to building high-impact, data-driven solutions.
-
-📌 Feel free to explore the **Personal Projects** section to see my work, including end-to-end Power BI solutions, dashboards, and data-driven insights.  
-
----
-
-## 🛠 My Skills  
-
-### 📊 Business Intelligence  
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI%202018%20%26%202025-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DAX-FFB000?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Paginated%20Reports-0F6CBD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Operational%20Reports-4682B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Dashboard-1E90FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Star%20Schema-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Snowflake%20Schema-5F9EA0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RLS-DC143C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OLS-8B0000?style=for-the-badge"/>
+<p align="center">
+  <a href="https://github.com/errupamkumar">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=F2C811&center=true&vCenter=true&width=720&lines=Lead+Power+BI+Developer+%40+HCLTech;Fraud+Analytics+%7C+BFSI+%7C+Fincrime+MI;Star+Schema+%E2%80%A2+DAX+%E2%80%A2+SQL+%E2%80%A2+Microsoft+Fabric;Automating+reports%2C+one+dashboard+at+a+time" alt="Typing SVG"/>
+  </a>
 </p>
 
 ---
 
-### 🗄 Data & Databases  
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Joins-008080?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CTEs-9932CC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Window%20Functions-FF6347?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Stored%20Procedures-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Views-20B2AA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Materialized%20Views-2E8B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Trigger-B22222?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Indexing-8B008B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Packages-556B2F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Relational%20Modeling-5F9EA0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Fact%20Tables-4169E1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Dimensional%20Tables-20B2AA?style=for-the-badge"/>
-</p>
+## 🧑‍💼 About Me
 
----
+I build **end-to-end BI solutions** that replace manual Excel reporting with fast, trusted Power BI dashboards. For the last ~4 years I've worked in **BFSI**, most recently leading **Financial Crime MI reporting** for Allied Irish Banks (AIB) through HCLTech.
 
-### 📈 Data Analysis  
-<p align="left">
-  <img src="https://img.shields.io/badge/Exploratory%20Analysis-2F4F4F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/KPI%20Design-FF8C00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Trend%20Analysis-00BFFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cohort%20Analysis-6B8E23?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Segmentation-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/A%2FB%20Style%20Comparisons-FF1493?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cards-4682B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pie%20Chart-DA70D6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tables%20%26%20Measures-5F9EA0?style=for-the-badge"/>
-</p>
+- 🏦 **Now:** Lead Engineer on AIB Fincrime MI: SQL views and DAX for ODD & STR processes
+- 📉 **Impact:** cut report processing time by **80%** and fraud-reporting effort from **15 FTE to 2**
+- 🧩 **Strengths:** star-schema modelling, DAX, KPI design, report automation, performance tuning
+- 🌱 **Learning:** Python for analytics (pandas, NumPy, Matplotlib, Seaborn) and Microsoft Fabric
+- 🏆 **Community:** regular participant in **ZoomCharts Data Challenges**
+- 💼 **Open to:** Senior Data Analyst · BI Developer · Power BI Developer roles
 
----
+<p align="center"><img src="./assets/impact.svg" width="100%" alt="Impact metrics"/></p>
 
-### ⚙ Tools  
-<p align="left">
+## 🛠️ Tech Stack
+
+<p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pivot%20Tables-006400?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Lookup%20Functions-228B22?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Dashboards-1E90FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BMC%20CRQ-FF6600?style=for-the-badge"/>
-</p>
-
----
-
-### 🚀 Optional (Current Learning)  
-<p align="left">
+  <img src="https://img.shields.io/badge/DAX-1F2937?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0E7490?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSV%20Data%20Handling-228B22?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Excel%20Data%20Handling-006400?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL%20Data%20Handling-8B4513?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Developing%20Model-708090?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
----
+## 🏅 Certifications
 
-## 📊 My Personal Projects : 
+<p align="center"><img src="./assets/certs.svg" width="100%" alt="PL-300, DP-600, DP-700, DP-900, AZ-900, AI-900, GH-900, GH-300"/></p>
 
-> These are my upcoming projects that I am currently working on. Once completed, I will update this section with the final project names and links.
+## 🚀 Career Journey
 
-- ⭐ **Procurement Data Analytics – Power BI Challenge (Data Challenge 37)**  
-  **Status:** *🔴 On Hold* | **Deadline:** Apr 17 – May 22, 2026 (IST).
-   
-Working on a comprehensive **procurement analytics solution** using Power BI, based on a dataset of 5,200+ records covering purchasing transactions, suppliers, contracts, delivery performance, invoices, payments, budgets, and savings (2022–2024). The project focuses on enabling **data-driven procurement decision-making** by providing visibility into spending patterns, supplier performance, and operational efficiency.  
+<p align="center"><img src="./assets/journey.svg" width="100%" alt="Career timeline"/></p>
 
-  Designing an interactive Power BI report to analyze:
-  - Procurement spend trends over time and across categories, departments, and regions  
-  - Actual vs Budget comparison to identify cost overruns and savings opportunities  
-  - Supplier performance analysis (risk level, delivery delays, ESG score, contract compliance)  
-  - Identification of **maverick spend** and off-contract purchasing behavior  
-  - Lead time and on-time delivery analysis to uncover operational inefficiencies  
+## 📊 Featured Projects
 
-Implementing a structured **data model with optimized relationships** and building advanced **DAX measures** for KPIs such as Spend Variance, Savings %, On-Time Delivery Rate, and Supplier Risk Impact. The report emphasizes **clear storytelling, actionable insights, and executive-friendly dashboards**, helping organizations reduce risk, control costs, and improve procurement efficiency.  
+| Project | Stack | Status |
+|---|---|---|
+| 🏠 [**Real Estate Market Analytics**](https://github.com/errupamkumar/-Real-Estate-Market-Analytics-Dashboard-Data-Challenge-36-) <br/><sub>ZoomCharts Data Challenge 36: interactive market dashboards</sub> | Power BI · DAX · ZoomCharts | ✅ Completed |
+| 📈 [**4U Executive KPI Report**](https://github.com/errupamkumar/4U-Challenges-Report-By-ZoomChart) <br/><sub>Executive KPI reporting challenge by ZoomCharts</sub> | Power BI · ZoomCharts | ✅ Completed |
+| 🛒 [**Sales Performance Dashboard**](https://github.com/errupamkumar/powerbi-sales-analytics-dashboard) <br/><sub>Sales KPIs, trends and regional drill-downs</sub> | Power BI · Power Query · DAX | ✅ Completed |
+| 📦 **Procurement Data Analytics** <br/><sub>ZoomCharts Data Challenge 37</sub> | Power BI · SQL | ⏸️ On hold |
+| 🏬 **Retail Store Insights** <br/><sub>SQL analysis + Power BI storytelling</sub> | SQL · Power BI | ⏸️ On hold |
+| 👥 **HR Analytics Dashboard** <br/><sub>Attrition, headcount and hiring funnel</sub> | Power BI · DAX | ⏸️ On hold |
 
-  Repo: [Link_](https://github.com/your-username/your-repo-name)
-  
-- ⭐ **4U Reports Challenge Executive KPI Report – Power BI (ZoomCharts Data Challenge)**  
-  **Status:** 🟢 *Completed*  | **Deadline:** Mar 30 - Apr 30, 2026 (IST) 
-  
-Building a board-ready **Executive KPI dashboard** for a fictional global enterprise (Nexoria Group) using Power BI. The solution focuses on delivering **executive-level insights** across financial, operational, customer, and workforce KPIs. The report is designed to support **March board reporting and strategic planning**, highlighting performance trends, regional variations, and key business drivers.  
+**Domains:** Finance · Sales · Operations · Logistics · HR Analytics
 
-  Designing a **multi-page (3–4 pages) interactive report** with a strong focus on storytelling, including:
-  - KPI Summary (Revenue, EBITDA, Margin, Headcount, Customer Growth)  
-  - Actual vs Budget vs Forecast comparison for executive decision-making  
-  - Organizational drill-down (Division → Business Unit → Product Line)  
-  - Regional performance analysis across AMER, EMEA, and APAC  
+## 📈 GitHub Stats
 
-Implementing **ZoomCharts Drill Down PRO visuals** to enable seamless hierarchical exploration and advanced interactivity. The solution emphasizes **clean UX design, intuitive navigation, and insight-driven storytelling**, allowing stakeholders to quickly identify performance gaps, growth drivers, and strategic opportunities.  
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=errupamkumar&show_icons=true&hide_border=true&bg_color=0B0F17&title_color=F2C811&icon_color=F2C811&text_color=E5E7EB&rank_icon=github"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=errupamkumar&hide_border=true&background=0B0F17&ring=F2C811&fire=FF9F1C&currStreakLabel=F2C811&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF"/>
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=errupamkumar&bg_color=0B0F17&color=E5E7EB&line=F2C811&point=22D3EE&area=true&area_color=F2C811&hide_border=true"/>
+</p>
 
-  Repo: [Link_](https://github.com/errupamkumar/4U-Challenges-Report-By-ZoomChart/tree/main)
-  
-- ⭐ **Real Estate Market Analytics – Power BI (Data Challenge 36)**  
-  **Status:** *🟢 Completed* | **Deadline:** Mar 30 - Apr 22, 2026 (IST) 
-  
-  I Participated in a global data challenge by ZoomCharts and built an end-to-end Power BI solution to analyze real estate market trends. Designed 3 interactive dashboards covering market overview, pricing drivers, and investment opportunities. Implemented a **Star Schema** data model with separate dimension tables and created a dedicated **Measures Table** for optimized and reusable DAX calculations. Delivered insights on pricing trends, rental yield, and market performance across regions.  
-  Repo: [Link_](https://github.com/errupamkumar/-Real-Estate-Market-Analytics-Dashboard-Data-Challenge-36-) 
-  
-- ⭐ **Sales Performance Dashboard – Power BI**
-- **Status:** *🟢 Completed* | **Deadline:** Feb 01 - Mar 30, 2026 (IST) 
-  
-  Designed an interactive Power BI dashboard to track revenue, profit, and regional performance using cleaned sales data from SQL/Excel. Implemented DAX measures for YTD/MTD KPIs and created drill‑through pages for product and region‑level analysis.  
-  Repo: [Link_](https://github.com/errupamkumar/powerbi-sales-analytics-dashboard)
-
-- **Retail Store Insights – SQL + Power BI**
-- **Status:** *🔴 On Hold*
-  
-  Built a star‑schema model from transactional data, wrote SQL queries for aggregations, and used Power BI to visualize store performance, customer segments, and order patterns. Helped identify low‑performing categories and high‑value customers.  
-  Repo: Link_
-
-- ⭐ **HR Analytics Dashboard – Power BI**
-- **Status:** *🔴 On Hold*
-  
-  Developed a comprehensive HR dashboard to monitor headcount, attrition, hiring trends, and diversity metrics. Used DAX measures for attrition rate, hiring rate, and tenure bands, enabling HR to track trends over time.  
-  Repo: Link_
-
-## 📫 Contact
-
-- **LinkedIn:** `www.linkedin.com/in/rupam-kumar`  
-- **Email:** `er.rupam.kumar@gmail.com`  
-- **Location:** Delhi, India
-
-Feel free to reach out for collaboration, freelancing, or full‑time opportunities in Data Analytics and Business Intelligence.
-
-🙏 Thank you for taking the time to review my portfolio.
+<p align="center"><img src="./assets/footer.svg" width="100%" alt="Thanks for visiting"/></p>

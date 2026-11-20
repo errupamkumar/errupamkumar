@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Career journey: Graduate Engineer Trainee at HCLTech 2022, Senior Data Analyst on AIB eFraud 2023, Lead Engineer on AIB Fincrime MI Dec 2025">
+  <defs>
+    <linearGradient id="track" gradientUnits="userSpaceOnUse" x1="70" y1="0" x2="1130" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset=".5" stop-color="#F2C811"/><stop offset="1" stop-color="#FF9F1C"/></linearGradient>
+  </defs>
+  <style>
+    text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+    .trk{stroke-dasharray:1060;stroke-dashoffset:1060;animation:draw 2.4s cubic-bezier(.4,0,.2,1) .2s forwards}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    .node{opacity:0;transform-box:fill-box;transform-origin:center;animation:pop .6s cubic-bezier(.3,1.7,.5,1) forwards}
+    @keyframes pop{from{opacity:0;transform:scale(0)}to{opacity:1;transform:scale(1)}}
+    .n1{animation-delay:.4s}.n2{animation-delay:1.3s}.n3{animation-delay:2.3s}
+    .box{opacity:0;animation:up .8s cubic-bezier(.2,.8,.2,1) forwards}
+    @keyframes up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+    .x1{animation-delay:.6s}.x2{animation-delay:1.5s}.x3{animation-delay:2.5s}
+    .ping{transform-box:fill-box;transform-origin:center;animation:ping 2s ease-out 2.8s infinite;opacity:0}
+    @keyframes ping{0%{transform:scale(1);opacity:.8}100%{transform:scale(2.8);opacity:0}}
+    .run{offset-path:path('M70 70 H1130');animation:run 5s linear 2.6s infinite;opacity:0}
+    @keyframes run{0%{offset-distance:0%;opacity:0}10%{opacity:1}90%{opacity:1}100%{offset-distance:100%;opacity:0}}
+  </style>
+  <rect width="1200" height="260" rx="18" fill="#0B0F17"/>
+  <rect width="1200" height="260" rx="18" fill="none" stroke="#F2C811" stroke-opacity=".15"/>
+
+  <line x1="70" y1="70" x2="1130" y2="70" stroke="#1F2937" stroke-width="6" stroke-linecap="round"/>
+  <line class="trk" x1="70" y1="70" x2="1130" y2="70" stroke="url(#track)" stroke-width="6" stroke-linecap="round"/>
+  <circle class="run" r="4" fill="#fff"/>
+
+  <!-- node 1 -->
+  <circle class="node n1" cx="200" cy="70" r="14" fill="#0F1623" stroke="#22D3EE" stroke-width="4"/>
+  <g class="box x1">
+    <text x="200" y="38" text-anchor="middle" font-size="13" font-weight="700" fill="#22D3EE">JUL 2022</text>
+    <rect x="50" y="102" width="300" height="140" rx="14" fill="#0F1623" stroke="#22D3EE" stroke-opacity=".35"/>
+    <text x="70" y="132" font-size="17" font-weight="700" fill="#F3F4F6">Graduate Engineer Trainee</text>
+    <text x="70" y="154" font-size="13" fill="#22D3EE" font-weight="600">HCLTech</text>
+    <text x="70" y="182" font-size="12.5" fill="#9CA3AF">Built TOSCANA T3 BPM tool</text>
+    <text x="70" y="202" font-size="12.5" fill="#9CA3AF">with custom reporting modules</text>
+  </g>
+
+  <!-- node 2 -->
+  <circle class="node n2" cx="600" cy="70" r="14" fill="#0F1623" stroke="#F2C811" stroke-width="4"/>
+  <g class="box x2">
+    <text x="600" y="38" text-anchor="middle" font-size="13" font-weight="700" fill="#F2C811">2023</text>
+    <rect x="450" y="102" width="300" height="140" rx="14" fill="#0F1623" stroke="#F2C811" stroke-opacity=".35"/>
+    <text x="470" y="132" font-size="17" font-weight="700" fill="#F3F4F6">Senior Data Analyst</text>
+    <text x="470" y="154" font-size="13" fill="#F2C811" font-weight="600">AIB · eFraud Division</text>
+    <text x="470" y="182" font-size="12.5" fill="#9CA3AF">Fraud analytics &amp; reporting suite</text>
+    <text x="470" y="202" font-size="12.5" fill="#9CA3AF">Automated Central Bank reporting</text>
+    <text x="470" y="222" font-size="12.5" fill="#9CA3AF">15 FTE → 2 FTE</text>
+  </g>
+
+  <!-- node 3 -->
+  <circle class="ping" cx="1000" cy="70" r="14" fill="#FF9F1C"/>
+  <circle class="node n3" cx="1000" cy="70" r="14" fill="#FF9F1C" stroke="#FFD27A" stroke-width="4"/>
+  <g class="box x3">
+    <text x="1000" y="38" text-anchor="middle" font-size="13" font-weight="700" fill="#FF9F1C">DEC 2025 — NOW</text>
+    <rect x="850" y="102" width="300" height="140" rx="14" fill="#1A1405" stroke="#FF9F1C" stroke-opacity=".6"/>
+    <text x="870" y="132" font-size="17" font-weight="700" fill="#F3F4F6">Lead Engineer · Power BI</text>
+    <text x="870" y="154" font-size="13" fill="#FF9F1C" font-weight="600">HCLTech → AIB Fincrime MI</text>
+    <text x="870" y="182" font-size="12.5" fill="#9CA3AF">Excel → Power BI automation</text>
+    <text x="870" y="202" font-size="12.5" fill="#9CA3AF">SQL views &amp; DAX for ODD / STR</text>
+    <text x="870" y="222" font-size="12.5" fill="#9CA3AF">80% less processing time</text>
+  </g>
+</svg>
