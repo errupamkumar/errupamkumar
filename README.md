@@ -83,8 +83,9 @@ I'm a **certified Power BI Developer** with **4.2 years** of experience building
 | 🟦 | **AI-900** · Azure AI Fundamentals | Microsoft | Mar 2026 | [Verify ↗](https://learn.microsoft.com/en-us/users/rupamkumar-5926/credentials/77ee16febee88e93) |
 | 🟪 | **GH-900** · GitHub Foundations | Microsoft | Dec 2025 | [Verify ↗](https://learn.microsoft.com/en-us/users/rupamkumar-5926/credentials/99cb0494b3122fd3) |
 | 🟪 | **PL-400** · Power Platform Developer Associate | Microsoft | 2026 | — |
-| 🟦 | **AZ-204** · Azure Developer Associate | Microsoft | 2026 | — |
-| 🟦 | **DP-900** · Azure Data Fundamentals | Microsoft | 2026 | — |
+| 🟦 | **AZ-204** · Azure Developer Associate | Microsoft | Jun 2025 | [Verify ↗](https://learn.microsoft.com/en-us/users/rupamkumar-5926/credentials/c04207f00ac7fe67) |
+| 🟦 | **DP-900** · Azure Data Fundamentals | Microsoft | Feb 2026 | [Verify ↗](https://learn.microsoft.com/en-us/users/rupamkumar-5926/credentials/818b65a7aaabb8a3) |
+| 🟦 | **AZ-900** · Azure Fundamentals | Microsoft | Mar 2024 | [Verify ↗](https://learn.microsoft.com/en-us/users/rupamkumar-2243/credentials/12fb0f067ffca5d6) |
 | 🟪 | **GH-300** · GitHub Copilot | Microsoft | 2026 | — |
 | 🟧 | **AWS Certified AI Practitioner** | Amazon Web Services | Jul 2026 | [Verify ↗](https://www.credly.com/badges/4a172bd5-753a-44bd-bec2-8411f9e3bf14) |
 | 🔷 | Build with Gemini | Google Cloud | Sep 2026 | [Verify ↗](https://www.credly.com/badges/059bb14f-bb8f-4d92-8614-7bc450a30d85) |
