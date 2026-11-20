@@ -1,82 +1,169 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="Certifications: PL-300, DP-600, DP-700, DP-900, AZ-900, AI-900, GH-900, GH-300">
-  <defs>
-    <linearGradient id="ms" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F2C811"/><stop offset="1" stop-color="#E8A300"/></linearGradient>
-    <linearGradient id="fb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14B8A6"/><stop offset="1" stop-color="#0E7490"/></linearGradient>
-    <linearGradient id="az" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
-    <linearGradient id="gh" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C084FC"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
-    <linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
-    <path id="hex" d="M0 -54 L47 -27 L47 27 L0 54 L-47 27 L-47 -27Z"/>
-    <clipPath id="hc"><use href="#hex"/></clipPath>
-  </defs>
-  <style>
-    text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
-    .b{opacity:0;transform-box:fill-box;transform-origin:center;animation:pop .7s cubic-bezier(.3,1.6,.5,1) forwards}
-    @keyframes pop{from{opacity:0;transform:scale(.3) rotate(-30deg)}to{opacity:1;transform:scale(1) rotate(0)}}
-    .i1{animation-delay:.1s}.i2{animation-delay:.25s}.i3{animation-delay:.4s}.i4{animation-delay:.55s}.i5{animation-delay:.7s}.i6{animation-delay:.85s}.i7{animation-delay:1s}.i8{animation-delay:1.15s}
-    .shine{animation:shine 6s ease-in-out infinite}
-    @keyframes shine{0%,70%{transform:translateX(-120px)}100%{transform:translateX(120px)}}
-    .bob{animation:bob 4s ease-in-out infinite}
-    @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
-    .ttl{opacity:0;animation:fade 1s ease 1.4s forwards}
-    @keyframes fade{to{opacity:1}}
-  </style>
-  <rect width="1200" height="250" rx="18" fill="#0B0F17"/>
-  <rect width="1200" height="250" rx="18" fill="none" stroke="#F2C811" stroke-opacity=".15"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-label="Certifications: 4 Claude certifications by Anthropic, 10 Microsoft and GitHub certifications, AWS Certified AI Practitioner and Google Cloud badges">
+<defs>
+<linearGradient id="cl" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F0A07F"/><stop offset="1" stop-color="#C15F3C"/></linearGradient>
+<linearGradient id="clp" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFD9A8"/><stop offset=".45" stop-color="#E8875F"/><stop offset="1" stop-color="#9E3F22"/></linearGradient>
+<linearGradient id="ms" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F2C811"/><stop offset="1" stop-color="#E8A300"/></linearGradient>
+<linearGradient id="pp" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E879F9"/><stop offset="1" stop-color="#9D174D"/></linearGradient>
+<linearGradient id="fb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14B8A6"/><stop offset="1" stop-color="#0E7490"/></linearGradient>
+<linearGradient id="az" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+<linearGradient id="gh" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C084FC"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+<linearGradient id="aws" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFB547"/><stop offset="1" stop-color="#E07B00"/></linearGradient>
+<linearGradient id="gc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4285F4"/><stop offset=".33" stop-color="#34A853"/><stop offset=".66" stop-color="#FBBC05"/><stop offset="1" stop-color="#EA4335"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<path id="hb" d="M0.0 -62.0 L53.7 -31.0 L53.7 31.0 L0.0 62.0 L-53.7 31.0 L-53.7 -31.0Z"/><clipPath id="cb"><use href="#hb"/></clipPath>
+<path id="hs" d="M0.0 -44.0 L38.1 -22.0 L38.1 22.0 L0.0 44.0 L-38.1 22.0 L-38.1 -22.0Z"/><clipPath id="cs"><use href="#hs"/></clipPath>
+</defs>
+<style>
+text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+.b{opacity:0;transform-box:fill-box;transform-origin:center;animation:pop .7s cubic-bezier(.3,1.6,.5,1) forwards}
+@keyframes pop{from{opacity:0;transform:scale(.3) rotate(-30deg)}to{opacity:1;transform:scale(1) rotate(0)}}
+.shine{animation:shine 6s ease-in-out infinite}
+@keyframes shine{0%,70%{transform:translateX(-140px)}100%{transform:translateX(140px)}}
+.bob{animation:bob 4s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+.fd{opacity:0;animation:fade .8s ease forwards}
+@keyframes fade{to{opacity:1}}
+.halo{transform-box:fill-box;transform-origin:center;animation:halo 3s ease-in-out infinite}
+@keyframes halo{0%,100%{opacity:.25;transform:scale(1)}50%{opacity:.7;transform:scale(1.08)}}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 18s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.sweep{animation:sweep 4s linear infinite}
+@keyframes sweep{from{transform:translateX(-300px)}to{transform:translateX(1500px)}}
+</style>
+<rect width="1200" height="640" rx="18" fill="#0B0F17"/>
+<rect width="1200" height="640" rx="18" fill="none" stroke="#F2C811" stroke-opacity=".15"/>
 
-  <!-- badge template repeated: translate(x,y) -->
-  <g transform="translate(80 105)"><g class="bob" style="animation-delay:0s"><g class="b i1">
-    <use href="#hex" fill="url(#ms)"/><use href="#hex" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2" transform="scale(.86)"/>
-    <g clip-path="url(#hc)"><rect class="shine" x="-60" y="-60" width="40" height="120" fill="url(#sh)" style="animation-delay:0s"/></g>
-    <text y="-8" text-anchor="middle" font-size="11" font-weight="700" fill="#1F1300" opacity=".75">MICROSOFT</text>
-    <text y="16" text-anchor="middle" font-size="20" font-weight="900" fill="#1F1300">PL-300</text>
-  </g></g><text class="ttl" y="84" text-anchor="middle" font-size="12" fill="#D1D5DB">Power BI Analyst</text></g>
-
-  <g transform="translate(228 105)"><g class="bob" style="animation-delay:.5s"><g class="b i2">
-    <use href="#hex" fill="url(#fb)"/><use href="#hex" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2" transform="scale(.86)"/>
-    <g clip-path="url(#hc)"><rect class="shine" x="-60" y="-60" width="40" height="120" fill="url(#sh)" style="animation-delay:.4s"/></g>
-    <text y="-8" text-anchor="middle" font-size="11" font-weight="700" fill="#fff" opacity=".8">FABRIC</text>
-    <text y="16" text-anchor="middle" font-size="20" font-weight="900" fill="#fff">DP-600</text>
-  </g></g><text class="ttl" y="84" text-anchor="middle" font-size="12" fill="#D1D5DB">Fabric Analytics Eng.</text></g>
-
-  <g transform="translate(376 105)"><g class="bob" style="animation-delay:1s"><g class="b i3">
-    <use href="#hex" fill="url(#fb)"/><use href="#hex" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2" transform="scale(.86)"/>
-    <g clip-path="url(#hc)"><rect class="shine" x="-60" y="-60" width="40" height="120" fill="url(#sh)" style="animation-delay:.8s"/></g>
-    <text y="-8" text-anchor="middle" font-size="11" font-weight="700" fill="#fff" opacity=".8">FABRIC</text>
-    <text y="16" text-anchor="middle" font-size="20" font-weight="900" fill="#fff">DP-700</text>
-  </g></g><text class="ttl" y="84" text-anchor="middle" font-size="12" fill="#D1D5DB">Fabric Data Engineer</text></g>
-
-  <g transform="translate(524 105)"><g class="bob" style="animation-delay:1.5s"><g class="b i4">
-    <use href="#hex" fill="url(#az)"/><use href="#hex" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2" transform="scale(.86)"/>
-    <g clip-path="url(#hc)"><rect class="shine" x="-60" y="-60" width="40" height="120" fill="url(#sh)" style="animation-delay:1.2s"/></g>
-    <text y="-8" text-anchor="middle" font-size="11" font-weight="700" fill="#fff" opacity=".8">AZURE</text>
-    <text y="16" text-anchor="middle" font-size="20" font-weight="900" fill="#fff">DP-900</text>
-  </g></g><text class="ttl" y="84" text-anchor="middle" font-size="12" fill="#D1D5DB">Data Fundamentals</text></g>
-
-  <g transform="translate(672 105)"><g class="bob" style="animation-delay:2s"><g class="b i5">
-    <use href="#hex" fill="url(#az)"/><use href="#hex" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2" transform="scale(.86)"/>
-    <g clip-path="url(#hc)"><rect class="shine" x="-60" y="-60" width="40" height="120" fill="url(#sh)" style="animation-delay:1.6s"/></g>
-    <text y="-8" text-anchor="middle" font-size="11" font-weight="700" fill="#fff" opacity=".8">AZURE</text>
-    <text y="16" text-anchor="middle" font-size="20" font-weight="900" fill="#fff">AZ-900</text>
-  </g></g><text class="ttl" y="84" text-anchor="middle" font-size="12" fill="#D1D5DB">Azure Fundamentals</text></g>
-
-  <g transform="translate(820 105)"><g class="bob" style="animation-delay:2.5s"><g class="b i6">
-    <use href="#hex" fill="url(#az)"/><use href="#hex" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2" transform="scale(.86)"/>
-    <g clip-path="url(#hc)"><rect class="shine" x="-60" y="-60" width="40" height="120" fill="url(#sh)" style="animation-delay:2s"/></g>
-    <text y="-8" text-anchor="middle" font-size="11" font-weight="700" fill="#fff" opacity=".8">AZURE AI</text>
-    <text y="16" text-anchor="middle" font-size="20" font-weight="900" fill="#fff">AI-900</text>
-  </g></g><text class="ttl" y="84" text-anchor="middle" font-size="12" fill="#D1D5DB">AI Fundamentals</text></g>
-
-  <g transform="translate(968 105)"><g class="bob" style="animation-delay:3s"><g class="b i7">
-    <use href="#hex" fill="url(#gh)"/><use href="#hex" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2" transform="scale(.86)"/>
-    <g clip-path="url(#hc)"><rect class="shine" x="-60" y="-60" width="40" height="120" fill="url(#sh)" style="animation-delay:2.4s"/></g>
-    <text y="-8" text-anchor="middle" font-size="11" font-weight="700" fill="#fff" opacity=".8">GITHUB</text>
-    <text y="16" text-anchor="middle" font-size="20" font-weight="900" fill="#fff">GH-900</text>
-  </g></g><text class="ttl" y="84" text-anchor="middle" font-size="12" fill="#D1D5DB">GitHub Foundations</text></g>
-
-  <g transform="translate(1116 105)"><g class="bob" style="animation-delay:3.5s"><g class="b i8">
-    <use href="#hex" fill="url(#gh)"/><use href="#hex" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2" transform="scale(.86)"/>
-    <g clip-path="url(#hc)"><rect class="shine" x="-60" y="-60" width="40" height="120" fill="url(#sh)" style="animation-delay:2.8s"/></g>
-    <text y="-8" text-anchor="middle" font-size="11" font-weight="700" fill="#fff" opacity=".8">GITHUB</text>
-    <text y="16" text-anchor="middle" font-size="20" font-weight="900" fill="#fff">GH-300</text>
-  </g></g><text class="ttl" y="84" text-anchor="middle" font-size="12" fill="#D1D5DB">GitHub Copilot</text></g>
+<g class="fd" style="animation-delay:0s"><rect x="30" y="21" width="257.59999999999997" height="24" rx="12" fill="#E8875F" fill-opacity=".12" stroke="#E8875F" stroke-opacity=".5"/><text x="44" y="38" font-size="12" font-weight="700" fill="#E8875F" letter-spacing="1.4">ANTHROPIC · CLAUDE CERTIFIED</text></g>
+<g opacity=".5"><rect class="sweep" x="0" y="52" width="300" height="2" fill="url(#sh)"/></g>
+<g transform="translate(180 150)">
+<use href="#hb" class="halo" fill="none" stroke="#FFD9A8" stroke-width="3" transform="scale(1.14)"/>
+<circle class="spin" r="82" fill="none" stroke="#E8875F" stroke-width="1.5" stroke-dasharray="4 10" opacity=".7"/>
+<g class="bob" style="animation-delay:0.0s"><g class="b" style="animation-delay:0.1s">
+<use href="#hb" fill="url(#clp)"/><use href="#hb" fill="none" stroke="#fff" stroke-opacity=".4" stroke-width="2" transform="scale(.87)"/>
+<g clip-path="url(#cb)"><rect class="shine" x="-80" y="-70" width="46" height="140" fill="url(#sh)" style="animation-delay:0.0s"/></g>
+<path d="M0 -40 L4 -30 L14 -27 L4 -24 L0 -14 L-4 -24 L-14 -27 L-4 -30Z" fill="#fff" opacity=".95"/>
+<text y="2" text-anchor="middle" font-size="11" font-weight="800" fill="#fff" letter-spacing="1">CLAUDE</text>
+<text y="22" text-anchor="middle" font-size="15" font-weight="900" fill="#fff">ARCHITECT</text>
+<text y="38" text-anchor="middle" font-size="9.5" font-weight="700" fill="#fff" opacity=".9" letter-spacing="1">PROFESSIONAL</text>
+</g></g>
+<text class="fd" style="animation-delay:0.7s" y="92" text-anchor="middle" font-size="13" font-weight="600" fill="#FFD9A8">Claude Certified Architect</text>
+<text class="fd" style="animation-delay:0.7s" y="110" text-anchor="middle" font-size="11" fill="#9CA3AF">Professional · Nov 2026</text>
+</g>
+<g transform="translate(450 150)">
+<g class="bob" style="animation-delay:0.5s"><g class="b" style="animation-delay:0.28s">
+<use href="#hb" fill="url(#cl)"/><use href="#hb" fill="none" stroke="#fff" stroke-opacity=".4" stroke-width="2" transform="scale(.87)"/>
+<g clip-path="url(#cb)"><rect class="shine" x="-80" y="-70" width="46" height="140" fill="url(#sh)" style="animation-delay:0.5s"/></g>
+<path d="M0 -40 L4 -30 L14 -27 L4 -24 L0 -14 L-4 -24 L-14 -27 L-4 -30Z" fill="#fff" opacity=".95"/>
+<text y="2" text-anchor="middle" font-size="11" font-weight="800" fill="#fff" letter-spacing="1">CLAUDE</text>
+<text y="22" text-anchor="middle" font-size="15" font-weight="900" fill="#fff">ARCHITECT</text>
+<text y="38" text-anchor="middle" font-size="9.5" font-weight="700" fill="#fff" opacity=".9" letter-spacing="1">FOUNDATIONS</text>
+</g></g>
+<text class="fd" style="animation-delay:0.88s" y="92" text-anchor="middle" font-size="13" font-weight="600" fill="#E5E7EB">Claude Certified Architect</text>
+<text class="fd" style="animation-delay:0.88s" y="110" text-anchor="middle" font-size="11" fill="#9CA3AF">Foundations · Nov 2026</text>
+</g>
+<g transform="translate(750 150)">
+<g class="bob" style="animation-delay:1.0s"><g class="b" style="animation-delay:0.46s">
+<use href="#hb" fill="url(#cl)"/><use href="#hb" fill="none" stroke="#fff" stroke-opacity=".4" stroke-width="2" transform="scale(.87)"/>
+<g clip-path="url(#cb)"><rect class="shine" x="-80" y="-70" width="46" height="140" fill="url(#sh)" style="animation-delay:1.0s"/></g>
+<path d="M0 -40 L4 -30 L14 -27 L4 -24 L0 -14 L-4 -24 L-14 -27 L-4 -30Z" fill="#fff" opacity=".95"/>
+<text y="2" text-anchor="middle" font-size="11" font-weight="800" fill="#fff" letter-spacing="1">CLAUDE</text>
+<text y="22" text-anchor="middle" font-size="15" font-weight="900" fill="#fff">DEVELOPER</text>
+<text y="38" text-anchor="middle" font-size="9.5" font-weight="700" fill="#fff" opacity=".9" letter-spacing="1">FOUNDATIONS</text>
+</g></g>
+<text class="fd" style="animation-delay:1.06s" y="92" text-anchor="middle" font-size="13" font-weight="600" fill="#E5E7EB">Claude Certified Developer</text>
+<text class="fd" style="animation-delay:1.06s" y="110" text-anchor="middle" font-size="11" fill="#9CA3AF">Foundations · Nov 2026</text>
+</g>
+<g transform="translate(1020 150)">
+<g class="bob" style="animation-delay:1.5s"><g class="b" style="animation-delay:0.64s">
+<use href="#hb" fill="url(#cl)"/><use href="#hb" fill="none" stroke="#fff" stroke-opacity=".4" stroke-width="2" transform="scale(.87)"/>
+<g clip-path="url(#cb)"><rect class="shine" x="-80" y="-70" width="46" height="140" fill="url(#sh)" style="animation-delay:1.5s"/></g>
+<path d="M0 -40 L4 -30 L14 -27 L4 -24 L0 -14 L-4 -24 L-14 -27 L-4 -30Z" fill="#fff" opacity=".95"/>
+<text y="2" text-anchor="middle" font-size="11" font-weight="800" fill="#fff" letter-spacing="1">CLAUDE</text>
+<text y="22" text-anchor="middle" font-size="15" font-weight="900" fill="#fff">ASSOCIATE</text>
+<text y="38" text-anchor="middle" font-size="9.5" font-weight="700" fill="#fff" opacity=".9" letter-spacing="1">FOUNDATIONS</text>
+</g></g>
+<text class="fd" style="animation-delay:1.24s" y="92" text-anchor="middle" font-size="13" font-weight="600" fill="#E5E7EB">Claude Certified Associate</text>
+<text class="fd" style="animation-delay:1.24s" y="110" text-anchor="middle" font-size="11" fill="#9CA3AF">Foundations · Nov 2026</text>
+</g>
+<g class="fd" style="animation-delay:0.8200000000000001s"><rect x="30" y="297" width="208.39999999999998" height="24" rx="12" fill="#F2C811" fill-opacity=".12" stroke="#F2C811" stroke-opacity=".5"/><text x="44" y="314" font-size="12" font-weight="700" fill="#F2C811" letter-spacing="1.4">MICROSOFT &amp; GITHUB</text></g>
+<g transform="translate(78 392)"><g class="bob" style="animation-delay:0.0s"><g class="b" style="animation-delay:0.8200000000000001s">
+<use href="#hs" fill="url(#ms)"/><use href="#hs" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="1.5" transform="scale(.86)"/>
+<g clip-path="url(#cs)"><rect class="shine" x="-60" y="-50" width="30" height="100" fill="url(#sh)" style="animation-delay:0.0s"/></g>
+<text y="6" text-anchor="middle" font-size="15" font-weight="900" fill="#1F1300">PL-300</text>
+</g></g>
+<text class="fd" style="animation-delay:1.32s" y="64" text-anchor="middle" font-size="11" fill="#D1D5DB">Power BI Analyst</text></g>
+<g transform="translate(194 392)"><g class="bob" style="animation-delay:0.3s"><g class="b" style="animation-delay:0.9s">
+<use href="#hs" fill="url(#pp)"/><use href="#hs" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="1.5" transform="scale(.86)"/>
+<g clip-path="url(#cs)"><rect class="shine" x="-60" y="-50" width="30" height="100" fill="url(#sh)" style="animation-delay:0.3s"/></g>
+<text y="6" text-anchor="middle" font-size="15" font-weight="900" fill="#fff">PL-400</text>
+</g></g>
+<text class="fd" style="animation-delay:1.4s" y="64" text-anchor="middle" font-size="11" fill="#D1D5DB">Power Platform Dev</text></g>
+<g transform="translate(310 392)"><g class="bob" style="animation-delay:0.6s"><g class="b" style="animation-delay:0.98s">
+<use href="#hs" fill="url(#fb)"/><use href="#hs" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="1.5" transform="scale(.86)"/>
+<g clip-path="url(#cs)"><rect class="shine" x="-60" y="-50" width="30" height="100" fill="url(#sh)" style="animation-delay:0.6s"/></g>
+<text y="6" text-anchor="middle" font-size="15" font-weight="900" fill="#fff">DP-600</text>
+</g></g>
+<text class="fd" style="animation-delay:1.48s" y="64" text-anchor="middle" font-size="11" fill="#D1D5DB">Fabric Analytics Eng</text></g>
+<g transform="translate(426 392)"><g class="bob" style="animation-delay:0.8999999999999999s"><g class="b" style="animation-delay:1.06s">
+<use href="#hs" fill="url(#fb)"/><use href="#hs" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="1.5" transform="scale(.86)"/>
+<g clip-path="url(#cs)"><rect class="shine" x="-60" y="-50" width="30" height="100" fill="url(#sh)" style="animation-delay:0.8999999999999999s"/></g>
+<text y="6" text-anchor="middle" font-size="15" font-weight="900" fill="#fff">DP-700</text>
+</g></g>
+<text class="fd" style="animation-delay:1.56s" y="64" text-anchor="middle" font-size="11" fill="#D1D5DB">Fabric Data Eng</text></g>
+<g transform="translate(542 392)"><g class="bob" style="animation-delay:1.2s"><g class="b" style="animation-delay:1.1400000000000001s">
+<use href="#hs" fill="url(#az)"/><use href="#hs" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="1.5" transform="scale(.86)"/>
+<g clip-path="url(#cs)"><rect class="shine" x="-60" y="-50" width="30" height="100" fill="url(#sh)" style="animation-delay:1.2s"/></g>
+<text y="6" text-anchor="middle" font-size="15" font-weight="900" fill="#fff">DP-100</text>
+</g></g>
+<text class="fd" style="animation-delay:1.6400000000000001s" y="64" text-anchor="middle" font-size="11" fill="#D1D5DB">Azure Data Scientist</text></g>
+<g transform="translate(658 392)"><g class="bob" style="animation-delay:1.5s"><g class="b" style="animation-delay:1.2200000000000002s">
+<use href="#hs" fill="url(#az)"/><use href="#hs" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="1.5" transform="scale(.86)"/>
+<g clip-path="url(#cs)"><rect class="shine" x="-60" y="-50" width="30" height="100" fill="url(#sh)" style="animation-delay:1.5s"/></g>
+<text y="6" text-anchor="middle" font-size="15" font-weight="900" fill="#fff">AZ-204</text>
+</g></g>
+<text class="fd" style="animation-delay:1.7200000000000002s" y="64" text-anchor="middle" font-size="11" fill="#D1D5DB">Azure Developer</text></g>
+<g transform="translate(774 392)"><g class="bob" style="animation-delay:1.7999999999999998s"><g class="b" style="animation-delay:1.3000000000000003s">
+<use href="#hs" fill="url(#az)"/><use href="#hs" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="1.5" transform="scale(.86)"/>
+<g clip-path="url(#cs)"><rect class="shine" x="-60" y="-50" width="30" height="100" fill="url(#sh)" style="animation-delay:1.7999999999999998s"/></g>
+<text y="6" text-anchor="middle" font-size="15" font-weight="900" fill="#fff">AI-900</text>
+</g></g>
+<text class="fd" style="animation-delay:1.8000000000000003s" y="64" text-anchor="middle" font-size="11" fill="#D1D5DB">Azure AI Fund.</text></g>
+<g transform="translate(890 392)"><g class="bob" style="animation-delay:2.1s"><g class="b" style="animation-delay:1.3800000000000003s">
+<use href="#hs" fill="url(#az)"/><use href="#hs" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="1.5" transform="scale(.86)"/>
+<g clip-path="url(#cs)"><rect class="shine" x="-60" y="-50" width="30" height="100" fill="url(#sh)" style="animation-delay:2.1s"/></g>
+<text y="6" text-anchor="middle" font-size="15" font-weight="900" fill="#fff">DP-900</text>
+</g></g>
+<text class="fd" style="animation-delay:1.8800000000000003s" y="64" text-anchor="middle" font-size="11" fill="#D1D5DB">Azure Data Fund.</text></g>
+<g transform="translate(1006 392)"><g class="bob" style="animation-delay:2.4s"><g class="b" style="animation-delay:1.4600000000000004s">
+<use href="#hs" fill="url(#gh)"/><use href="#hs" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="1.5" transform="scale(.86)"/>
+<g clip-path="url(#cs)"><rect class="shine" x="-60" y="-50" width="30" height="100" fill="url(#sh)" style="animation-delay:2.4s"/></g>
+<text y="6" text-anchor="middle" font-size="15" font-weight="900" fill="#fff">GH-900</text>
+</g></g>
+<text class="fd" style="animation-delay:1.9600000000000004s" y="64" text-anchor="middle" font-size="11" fill="#D1D5DB">GitHub Foundations</text></g>
+<g transform="translate(1122 392)"><g class="bob" style="animation-delay:2.6999999999999997s"><g class="b" style="animation-delay:1.5400000000000005s">
+<use href="#hs" fill="url(#gh)"/><use href="#hs" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="1.5" transform="scale(.86)"/>
+<g clip-path="url(#cs)"><rect class="shine" x="-60" y="-50" width="30" height="100" fill="url(#sh)" style="animation-delay:2.6999999999999997s"/></g>
+<text y="6" text-anchor="middle" font-size="15" font-weight="900" fill="#fff">GH-300</text>
+</g></g>
+<text class="fd" style="animation-delay:2.0400000000000005s" y="64" text-anchor="middle" font-size="11" fill="#D1D5DB">GitHub Copilot</text></g>
+<g class="fd" style="animation-delay:1.6200000000000006s"><rect x="30" y="485" width="175.6" height="24" rx="12" fill="#FFB547" fill-opacity=".12" stroke="#FFB547" stroke-opacity=".5"/><text x="44" y="502" font-size="12" font-weight="700" fill="#FFB547" letter-spacing="1.4">AWS · GOOGLE CLOUD</text></g>
+<g class="fd" style="animation-delay:1.7200000000000006s">
+<rect x="30" y="522" width="360" height="92" rx="14" fill="#141A24" stroke="#FFB547" stroke-opacity=".45"/>
+<g transform="translate(80 568)"><g class="bob"><use href="#hs" fill="url(#aws)" transform="scale(.8)"/><text y="5" text-anchor="middle" font-size="12" font-weight="900" fill="#1F1300">AWS</text></g></g>
+<text x="132" y="560" font-size="15" font-weight="700" fill="#F3F4F6">AWS Certified AI Practitioner</text>
+<text x="132" y="582" font-size="12" fill="#9CA3AF">Amazon Web Services · Jul 2026</text>
+<text x="132" y="600" font-size="11" fill="#FFB547">+ AWS Partner Technical &amp; Sales</text>
+</g>
+<g class="fd" style="animation-delay:1.9200000000000006s">
+<rect x="410" y="522" width="760" height="92" rx="14" fill="#141A24" stroke="#4285F4" stroke-opacity=".45"/>
+<rect x="410" y="610" width="760" height="4" rx="2" fill="url(#gc)"/>
+<text x="434" y="552" font-size="15" font-weight="700" fill="#F3F4F6">Google Cloud · 9 skill badges</text>
+<g font-size="11.5" font-weight="600">
+<rect x="434" y="564" width="118" height="24" rx="12" fill="#1F2937"/><text x="493" y="580" text-anchor="middle" fill="#93C5FD">Build with Gemini</text>
+<rect x="560" y="564" width="114" height="24" rx="12" fill="#1F2937"/><text x="617" y="580" text-anchor="middle" fill="#86EFAC">Antigravity</text>
+<rect x="682" y="564" width="150" height="24" rx="12" fill="#1F2937"/><text x="757" y="580" text-anchor="middle" fill="#FDE68A">Agent Dev Kit (ADK)</text>
+<rect x="840" y="564" width="140" height="24" rx="12" fill="#1F2937"/><text x="910" y="580" text-anchor="middle" fill="#FCA5A5">Gemini Agents</text>
+<rect x="988" y="564" width="162" height="24" rx="12" fill="#1F2937"/><text x="1069" y="580" text-anchor="middle" fill="#C4B5FD">Prompt Engineering</text>
+</g>
+</g>
 </svg>

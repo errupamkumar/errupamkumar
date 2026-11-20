@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Career journey: Graduate Engineer Trainee at HCLTech 2022, Senior Data Analyst on AIB eFraud 2023, Lead Engineer on AIB Fincrime MI Dec 2025">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Career journey: Software Engineer at HCLTech July 2022, BI Engineer at HCLTech for AIB from January 2024, Claude Certified Architect Professional November 2026">
   <defs>
     <linearGradient id="track" gradientUnits="userSpaceOnUse" x1="70" y1="0" x2="1130" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset=".5" stop-color="#F2C811"/><stop offset="1" stop-color="#FF9F1C"/></linearGradient>
   </defs>
@@ -29,21 +29,21 @@
   <g class="box x1">
     <text x="200" y="38" text-anchor="middle" font-size="13" font-weight="700" fill="#22D3EE">JUL 2022</text>
     <rect x="50" y="102" width="300" height="140" rx="14" fill="#0F1623" stroke="#22D3EE" stroke-opacity=".35"/>
-    <text x="70" y="132" font-size="17" font-weight="700" fill="#F3F4F6">Graduate Engineer Trainee</text>
-    <text x="70" y="154" font-size="13" fill="#22D3EE" font-weight="600">HCLTech</text>
-    <text x="70" y="182" font-size="12.5" fill="#9CA3AF">Built TOSCANA T3 BPM tool</text>
-    <text x="70" y="202" font-size="12.5" fill="#9CA3AF">with custom reporting modules</text>
+    <text x="70" y="132" font-size="17" font-weight="700" fill="#F3F4F6">Software Engineer</text>
+    <text x="70" y="154" font-size="13" fill="#22D3EE" font-weight="600">HCLTech · Jul 2022 – Dec 2023</text>
+    <text x="70" y="182" font-size="12.5" fill="#9CA3AF">Star-schema semantic models, RLS</text>
+    <text x="70" y="202" font-size="12.5" fill="#9CA3AF">Incremental refresh, reusable DAX</text>
   </g>
 
   <!-- node 2 -->
   <circle class="node n2" cx="600" cy="70" r="14" fill="#0F1623" stroke="#F2C811" stroke-width="4"/>
   <g class="box x2">
-    <text x="600" y="38" text-anchor="middle" font-size="13" font-weight="700" fill="#F2C811">2023</text>
+    <text x="600" y="38" text-anchor="middle" font-size="13" font-weight="700" fill="#F2C811">JAN 2024</text>
     <rect x="450" y="102" width="300" height="140" rx="14" fill="#0F1623" stroke="#F2C811" stroke-opacity=".35"/>
-    <text x="470" y="132" font-size="17" font-weight="700" fill="#F3F4F6">Senior Data Analyst</text>
-    <text x="470" y="154" font-size="13" fill="#F2C811" font-weight="600">AIB · eFraud Division</text>
-    <text x="470" y="182" font-size="12.5" fill="#9CA3AF">Fraud analytics &amp; reporting suite</text>
-    <text x="470" y="202" font-size="12.5" fill="#9CA3AF">Automated Central Bank reporting</text>
+    <text x="470" y="132" font-size="17" font-weight="700" fill="#F3F4F6">BI Engineer</text>
+    <text x="470" y="154" font-size="13" fill="#F2C811" font-weight="600">HCLTech → Allied Irish Banks</text>
+    <text x="470" y="182" font-size="12.5" fill="#9CA3AF">Fraud Analytics &amp; Reporting platform</text>
+    <text x="470" y="202" font-size="12.5" fill="#9CA3AF">SQL views over 1,500+ data fields</text>
     <text x="470" y="222" font-size="12.5" fill="#9CA3AF">15 FTE → 2 FTE</text>
   </g>
 
@@ -51,12 +51,12 @@
   <circle class="ping" cx="1000" cy="70" r="14" fill="#FF9F1C"/>
   <circle class="node n3" cx="1000" cy="70" r="14" fill="#FF9F1C" stroke="#FFD27A" stroke-width="4"/>
   <g class="box x3">
-    <text x="1000" y="38" text-anchor="middle" font-size="13" font-weight="700" fill="#FF9F1C">DEC 2025 — NOW</text>
+    <text x="1000" y="38" text-anchor="middle" font-size="13" font-weight="700" fill="#FF9F1C">NOV 2026 — NOW</text>
     <rect x="850" y="102" width="300" height="140" rx="14" fill="#1A1405" stroke="#FF9F1C" stroke-opacity=".6"/>
-    <text x="870" y="132" font-size="17" font-weight="700" fill="#F3F4F6">Lead Engineer · Power BI</text>
-    <text x="870" y="154" font-size="13" fill="#FF9F1C" font-weight="600">HCLTech → AIB Fincrime MI</text>
-    <text x="870" y="182" font-size="12.5" fill="#9CA3AF">Excel → Power BI automation</text>
-    <text x="870" y="202" font-size="12.5" fill="#9CA3AF">SQL views &amp; DAX for ODD / STR</text>
-    <text x="870" y="222" font-size="12.5" fill="#9CA3AF">80% less processing time</text>
+    <text x="870" y="132" font-size="17" font-weight="700" fill="#F3F4F6">BI Engineer + AI Architect</text>
+    <text x="870" y="154" font-size="13" fill="#FF9F1C" font-weight="600">Claude Certified Architect – Pro</text>
+    <text x="870" y="182" font-size="12.5" fill="#9CA3AF">FinCrime ODD &amp; STR dashboards</text>
+    <text x="870" y="202" font-size="12.5" fill="#9CA3AF">80% less manual Excel work</text>
+    <text x="870" y="222" font-size="12.5" fill="#9CA3AF">4 Claude + 10 Microsoft certs</text>
   </g>
 </svg>
