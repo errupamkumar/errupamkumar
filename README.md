@@ -26,6 +26,7 @@ I'm a **certified Power BI Developer** with **4.2 years** of experience building
 - 📉 **Impact:** **80%** less manual Excel work, **85%** less manual data extraction, and fraud reporting effort cut from **15 FTE to 2**
 - 🧩 **Strengths:** star-schema semantic models, advanced DAX, Power Query, T-SQL, RLS / OLS, incremental refresh, DEV → TEST → PROD pipelines
 - 🤖 **AI:** Claude API, Claude Code and MCP; Gemini & Agent Development Kit on Google Cloud; AWS AI
+- 🥇 **Recognised:** two HCLTech awards, the **Supercharge Progress Award** (FY 2025–26) and **Excelencia Premio** (FY 2023–24)
 - 🏆 **Community:** regular participant in **ZoomCharts Data Challenges**
 - 💼 **Open to:** Senior Data Analyst · BI Developer · Power BI Developer roles
 
@@ -61,6 +62,15 @@ I'm a **certified Power BI Developer** with **4.2 years** of experience building
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 </p>
+
+## 🏆 Awards & Recognition
+
+<p align="center"><img src="./assets/awards.svg" width="100%" alt="HCLTech Supercharge Progress Award (Excellence Award, FY 2025–26) and Excelencia Premio (FY 2023–24)"/></p>
+
+| Award | Issued by | Year | Recognised for |
+|---|---|---|---|
+| 🥇 **Supercharge Progress Award** (Excellence Award) | HCLTech | FY 2025–26 · Sep 2025 | Performance excellence and extraordinary contribution to the organization |
+| 🏅 **Excelencia Premio** | HCLTech | FY 2023–24 · Jan 2024 | Exemplary performance and demonstration of values |
 
 ## 🏅 Certifications
 
