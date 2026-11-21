@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Rupam Kumar · Power BI Developer &amp; BI Engineer</h1>
+<p align="center"><i>Rupam Kumar (also known as Rupam Belsara)</i></p>
 
 <p align="center"><b>BI Engineer at HCLTech (Noida, India)</b> · Fraud &amp; Financial-Crime Analytics for Allied Irish Banks · Power BI · DAX · SQL · Microsoft Fabric · Snowflake<br/>Claude Certified Architect – Professional · Microsoft Certified PL-300, DP-600, DP-700 · <a href="https://errupamkumar.github.io/portfolio-website_prod/">Portfolio website</a> · <a href="https://www.linkedin.com/in/rupam-kumar/">LinkedIn</a></p>
 
