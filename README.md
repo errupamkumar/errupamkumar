@@ -1,18 +1,22 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Rupam Kumar — Lead Power BI Developer"/>
+  <img src="./assets/banner.svg" width="100%" alt="Rupam Kumar — Power BI Developer and BI Engineer at HCLTech, Claude Certified Architect"/>
 </p>
 
+<h1 align="center">Rupam Kumar · Power BI Developer &amp; BI Engineer</h1>
+
+<p align="center"><b>BI Engineer at HCLTech (Noida, India)</b> · Fraud &amp; Financial-Crime Analytics for Allied Irish Banks · Power BI · DAX · SQL · Microsoft Fabric · Snowflake<br/>Claude Certified Architect – Professional · Microsoft Certified PL-300, DP-600, DP-700 · <a href="https://errupamkumar.github.io/portfolio-website_prod/">Portfolio website</a> · <a href="https://www.linkedin.com/in/rupam-kumar/">LinkedIn</a></p>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/rupam-kumar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://errupamkumar.github.io/portfolio-website_prod/"><img src="https://img.shields.io/badge/Portfolio-Visit-F2C811?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
-  <a href="https://topmate.io/rupam_kumar10"><img src="https://img.shields.io/badge/Topmate-Book%201%3A1-E44332?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
-  <a href="mailto:er.rupam.kumar@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rupam-kumar/"><img alt="Rupam Kumar on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://errupamkumar.github.io/portfolio-website_prod/"><img alt="Rupam Kumar Power BI portfolio website" src="https://img.shields.io/badge/Portfolio-Visit-F2C811?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+  <a href="https://topmate.io/rupam_kumar10"><img alt="Book a 1:1 with Rupam Kumar on Topmate" src="https://img.shields.io/badge/Topmate-Book%201%3A1-E44332?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
+  <a href="mailto:er.rupam.kumar@gmail.com"><img alt="Email Rupam Kumar" src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=errupamkumar&style=for-the-badge&color=F2C811&label=PROFILE+VIEWS"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/errupamkumar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=F2C811&center=true&vCenter=true&width=720&lines=Power+BI+Developer+%7C+BI+Engineer+%40+HCLTech;Claude+Certified+Architect+%E2%80%93+Professional;Fraud+%26+FinCrime+Analytics+for+Banking;Star+Schema+%E2%80%A2+DAX+%E2%80%A2+SQL+%E2%80%A2+Fabric+%E2%80%A2+Snowflake" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=F2C811&center=true&vCenter=true&width=720&lines=Power+BI+Developer+%7C+BI+Engineer+%40+HCLTech;Claude+Certified+Architect+%E2%80%93+Professional;Fraud+%26+FinCrime+Analytics+for+Banking;Star+Schema+%E2%80%A2+DAX+%E2%80%A2+SQL+%E2%80%A2+Fabric+%E2%80%A2+Snowflake" alt="Power BI Developer, BI Engineer at HCLTech, Claude Certified Architect, Fraud and FinCrime analytics"/>
   </a>
 </p>
 
